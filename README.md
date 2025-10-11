@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # News Research MCP Agent
 
 This standalone MCP server crawls the top 10 news articles from major news sites and stores them in a local PostgreSQL vector database MCP server.
@@ -28,3 +29,7 @@ This standalone MCP server crawls the top 10 news articles from major news sites
 ## Extending
 - Adjust the PostgreSQL connection string in `main.py` as needed.
 - Add more tools or logic for advanced research workflows.
+=======
+# mcp-news-agents
+Multi-agent Model Context Protocol (MCP) news system with modular agents for crawling, analysis, clustering, cleaning, fact-checking, editing, orchestration, and resource management.
+>>>>>>> 505356e603903c9f7db0b5a23cead989e28b9289
