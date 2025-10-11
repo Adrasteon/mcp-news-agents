@@ -1,4 +1,3 @@
-
 import logging
 from mcp.server import Server, Tool
 from mcp.types import ToolInput, ToolOutput
@@ -6,6 +5,11 @@ import asyncio
 from typing import List, Dict, Any
 from crawl4ai import crawl
 import psycopg
+from prometheus_client import start_http_server, Counter, Gauge
+
+# Metrics
+REQUESTS = Counter('requests_total', 'Total requests')
+AGENT_STATUS = Gauge('agent_status', 'Status of the agent (1=up, 0=down)')
 
 # Configure logging to stderr (never stdout for MCP servers)
 logging.basicConfig(level=logging.INFO, handlers=[logging.StreamHandler()])
@@ -76,4 +80,6 @@ server = Server(
 )
 
 if __name__ == "__main__":
-    server.run()
+    start_http_server(8001)  # Expose metrics on port 8001
+    AGENT_STATUS.set(1)
+    main()
