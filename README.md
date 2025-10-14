@@ -25,6 +25,9 @@ This MCP server (news-research-agent) crawls the top news articles from configur
    export JUSTNEWS_DB_PASSWORD="<production-password>"
    ```
 
+   Alternatively, run `./setup_env.sh` to generate a reusable environment file and
+   source it before startup.
+
 3. **Run the agent:**
 
    ```bash
@@ -53,7 +56,7 @@ Key environment variables:
 
 | Variable | Description | Default |
 | --- | --- | --- |
-| `JUSTNEWS_DB_PASSWORD` | Required password for the `justnews_user` role. | _None (required)_ |
+| `JUSTNEWS_DB_PASSWORD` | Required password for the `justnews_user` role. Use `./setup_env.sh` to generate/store securely. | _None (required)_ |
 | `JUSTNEWS_DB_HOST` | Database host. | `localhost` |
 | `JUSTNEWS_DB_PORT` | Database port. | `5432` |
 | `JUSTNEWS_DB_NAME` | Database name. | `justnews` |
@@ -66,6 +69,7 @@ Key environment variables:
 | `NEWS_EMBEDDING_MODEL` | Sentence-transformers model id. | `sentence-transformers/all-mpnet-base-v2` |
 | `NEWS_EMBEDDING_BATCH` | Embedding batch size. | `8` |
 | `NEWS_EMBEDDING_GPU_FRACTION` | GPU memory fraction cap. | `0.65` |
+| `NEWS_LOG_LEVEL` | Logging verbosity (`DEBUG`, `INFO`, etc.). | `INFO` |
 
 See `agent_config.py` for comprehensive defaults and type validation.
 

@@ -34,7 +34,8 @@ EMBEDDING_FAILURES = Counter('research_embedding_failures_total', 'Embedding att
 PIPELINE_LATENCY = Summary('research_pipeline_latency_seconds', 'Wall-clock time to crawl and store a batch')
 AGENT_STATUS = Gauge('agent_status', 'Status of the agent (1=up, 0=down)')
 
-logging.basicConfig(level=logging.INFO, handlers=[logging.StreamHandler()])
+LOG_LEVEL = os.getenv("NEWS_LOG_LEVEL", "INFO").upper()
+logging.basicConfig(level=getattr(logging, LOG_LEVEL, logging.INFO), handlers=[logging.StreamHandler()])
 
 class CrawlNewsInput(BaseModel):
     """Input for crawling top news (no fields required)."""
@@ -302,6 +303,7 @@ async def persist_articles(
     config: AgentConfig,
 ) -> List[Dict[str, Any]]:
     if not articles:
+        logging.debug("Source %s (%s) produced no articles.", source.id, source.url)
         return []
 
     stored: List[Dict[str, Any]] = []
@@ -311,10 +313,22 @@ async def persist_articles(
         for raw_article in articles:
             normalized = normalize_article(raw_article, source)
             if not normalized:
+                logging.debug(
+                    "Skipping article from source %s (%s): normalization failed (url=%r, title=%r)",
+                    source.id,
+                    source.url,
+                    raw_article.get("url"),
+                    raw_article.get("title"),
+                )
                 ARTICLES_SKIPPED.inc()
                 continue
 
             if await article_exists(cur, normalized.url):
+                logging.debug(
+                    "Skipping duplicate article: source=%s url=%s",
+                    source.id,
+                    normalized.url,
+                )
                 ARTICLES_SKIPPED.inc()
                 continue
 
@@ -390,6 +404,16 @@ async def persist_articles(
             pending_embeddings.append((article_id, normalized.embedding_input))
 
     if stored:
+        logging.info(
+            "Stored %d new articles for source %s (%s)",
+            len(stored),
+            source.id,
+            source.url,
+        )
+    else:
+        logging.debug("No new articles stored for source %s (%s)", source.id, source.url)
+
+    if stored:
         ARTICLES_STORED.inc(len(stored))
 
     if pending_embeddings:
@@ -405,6 +429,7 @@ async def update_embeddings(
 ) -> None:
     service = embedding_service(config)
     if service is None:
+        logging.debug("Embedding service disabled; skipping %d articles.", len(items))
         return
 
     article_ids, inputs = zip(*items)
@@ -416,6 +441,7 @@ async def update_embeddings(
         return
 
     if not embeddings:
+        logging.debug("Embedding service returned no vectors; skipping updates for %d articles.", len(items))
         return
 
     async with conn.cursor() as cur:
@@ -444,7 +470,10 @@ async def run_pipeline(config: AgentConfig) -> List[Dict[str, Any]]:
         sources = await fetch_sources(conn, config.source_batch_size)
 
     if not sources:
+        logging.info("No sources retrieved for ingestion batch.")
         return []
+
+    logging.info("Starting ingestion for %d sources (parallelism=%d)", len(sources), config.crawl_parallelism)
 
     stored: List[Dict[str, Any]] = []
     stored_lock = asyncio.Lock()
@@ -501,6 +530,13 @@ async def run_pipeline(config: AgentConfig) -> List[Dict[str, Any]]:
 
     duration = (datetime.now(timezone.utc) - start).total_seconds()
     PIPELINE_LATENCY.observe(duration)
+    logging.info(
+        "Ingestion run complete: stored=%d sources=%d failures=%d duration=%.2fs",
+        len(stored),
+        len(sources),
+        failure_count,
+        duration,
+    )
     return stored
 
 
