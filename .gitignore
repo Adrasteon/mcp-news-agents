@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Reference artifacts (external documentation snapshots)
+reference/
