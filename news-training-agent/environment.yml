@@ -1,0 +1,13 @@
+name: news-training-agent-env
+channels:
+  - defaults
+  - conda-forge
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - prometheus_client
+  - uv
+  - pip
+  - pip:
+    - fastmcp==2.12.0

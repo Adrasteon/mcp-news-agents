@@ -1,0 +1,3840 @@
+[
+    {
+        "label": "click",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "click",
+        "description": "click",
+        "detail": "click",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "NamedTuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "importPath": "context",
+        "description": "context",
+        "isExtraImport": true,
+        "detail": "context",
+        "documentation": {}
+    },
+    {
+        "label": "run_git_command",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "GitError",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FilePatch",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FileOperation",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "GitError",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_git_command",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_git_repository",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_commit_exists",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_diff_output",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_patch_file",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_deletion_marker",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_binary_marker",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_extraction_summary",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_commit_info",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_commit_changed_files",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_commit_changed_files",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_git_command",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_diff_output",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FilePatch",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FileOperation",
+        "importPath": "modules.dev_cli.utils",
+        "description": "modules.dev_cli.utils",
+        "isExtraImport": true,
+        "detail": "modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "safe_rmtree",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_LINUX",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "safe_rmtree",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "safe_rmtree",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_LINUX",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_LINUX",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform_arch",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_executable_extension",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "multiprocessing",
+        "description": "multiprocessing",
+        "detail": "multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "tarfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tarfile",
+        "description": "tarfile",
+        "detail": "tarfile",
+        "documentation": {}
+    },
+    {
+        "label": "urllib.request",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request",
+        "description": "urllib.request",
+        "detail": "urllib.request",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "zipfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "zipfile",
+        "description": "zipfile",
+        "detail": "zipfile",
+        "documentation": {}
+    },
+    {
+        "label": "plistlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plistlib",
+        "description": "plistlib",
+        "detail": "plistlib",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "clean",
+        "importPath": "modules.clean",
+        "description": "modules.clean",
+        "isExtraImport": true,
+        "detail": "modules.clean",
+        "documentation": {}
+    },
+    {
+        "label": "setup_git",
+        "importPath": "modules.git",
+        "description": "modules.git",
+        "isExtraImport": true,
+        "detail": "modules.git",
+        "documentation": {}
+    },
+    {
+        "label": "setup_sparkle",
+        "importPath": "modules.git",
+        "description": "modules.git",
+        "isExtraImport": true,
+        "detail": "modules.git",
+        "documentation": {}
+    },
+    {
+        "label": "apply_patches",
+        "importPath": "modules.patches",
+        "description": "modules.patches",
+        "isExtraImport": true,
+        "detail": "modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "copy_resources",
+        "importPath": "modules.resources",
+        "description": "modules.resources",
+        "isExtraImport": true,
+        "detail": "modules.resources",
+        "documentation": {}
+    },
+    {
+        "label": "replace_chromium_files",
+        "importPath": "modules.chromium_replace",
+        "description": "modules.chromium_replace",
+        "isExtraImport": true,
+        "detail": "modules.chromium_replace",
+        "documentation": {}
+    },
+    {
+        "label": "add_file_to_replacements",
+        "importPath": "modules.chromium_replace",
+        "description": "modules.chromium_replace",
+        "isExtraImport": true,
+        "detail": "modules.chromium_replace",
+        "documentation": {}
+    },
+    {
+        "label": "apply_string_replacements",
+        "importPath": "modules.string_replaces",
+        "description": "modules.string_replaces",
+        "isExtraImport": true,
+        "detail": "modules.string_replaces",
+        "documentation": {}
+    },
+    {
+        "label": "inject_version",
+        "importPath": "modules.inject",
+        "description": "modules.inject",
+        "isExtraImport": true,
+        "detail": "modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "configure",
+        "importPath": "modules.configure",
+        "description": "modules.configure",
+        "isExtraImport": true,
+        "detail": "modules.configure",
+        "documentation": {}
+    },
+    {
+        "label": "build",
+        "importPath": "modules.compile",
+        "description": "modules.compile",
+        "isExtraImport": true,
+        "detail": "modules.compile",
+        "documentation": {}
+    },
+    {
+        "label": "upload_package_artifacts",
+        "importPath": "modules.gcs",
+        "description": "modules.gcs",
+        "isExtraImport": true,
+        "detail": "modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "upload_signed_artifacts",
+        "importPath": "modules.gcs",
+        "description": "modules.gcs",
+        "isExtraImport": true,
+        "detail": "modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "handle_upload_dist",
+        "importPath": "modules.gcs",
+        "description": "modules.gcs",
+        "isExtraImport": true,
+        "detail": "modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_started",
+        "importPath": "modules.slack",
+        "description": "modules.slack",
+        "isExtraImport": true,
+        "detail": "modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_step",
+        "importPath": "modules.slack",
+        "description": "modules.slack",
+        "isExtraImport": true,
+        "detail": "modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_success",
+        "importPath": "modules.slack",
+        "description": "modules.slack",
+        "isExtraImport": true,
+        "detail": "modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_failure",
+        "importPath": "modules.slack",
+        "description": "modules.slack",
+        "isExtraImport": true,
+        "detail": "modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_interrupted",
+        "importPath": "modules.slack",
+        "description": "modules.slack",
+        "isExtraImport": true,
+        "detail": "modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_gcs_upload",
+        "importPath": "modules.slack",
+        "description": "modules.slack",
+        "isExtraImport": true,
+        "detail": "modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "errno",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "errno",
+        "description": "errno",
+        "detail": "errno",
+        "documentation": {}
+    },
+    {
+        "label": "filecmp",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "filecmp",
+        "description": "filecmp",
+        "detail": "filecmp",
+        "documentation": {}
+    },
+    {
+        "label": "stat",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stat",
+        "description": "stat",
+        "detail": "stat",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "find_patch_files",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def find_patch_files(patches_dir: Path) -> List[Path]:\n    \"\"\"Find all valid patch files in a directory.\n    Args:\n        patches_dir: Directory to search for patches\n    Returns:\n        List of patch file paths, sorted\n    \"\"\"\n    if not patches_dir.exists():\n        return []\n    return sorted(",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "apply_single_patch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def apply_single_patch(\n    patch_path: Path,\n    chromium_src: Path,\n    dry_run: bool = False,\n    relative_to: Optional[Path] = None,\n) -> Tuple[bool, Optional[str]]:\n    \"\"\"Apply a single patch file.\n    Args:\n        patch_path: Path to the patch file\n        chromium_src: Chromium source directory",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "create_patch_commit",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def create_patch_commit(\n    patch_identifier: str, chromium_src: Path, feature_name: Optional[str] = None\n) -> bool:\n    \"\"\"Create a git commit after applying a patch.\n    Args:\n        patch_identifier: Patch name or path for commit message\n        chromium_src: Chromium source directory\n        feature_name: Optional feature name for commit message\n    Returns:\n        True if commit was created successfully",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "process_patch_list",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def process_patch_list(\n    patch_list: List[Tuple[Path, str]],\n    chromium_src: Path,\n    patches_dir: Path,\n    commit_each: bool = False,\n    dry_run: bool = False,\n    interactive: bool = False,\n    feature_name: Optional[str] = None,\n) -> Tuple[int, List[str]]:\n    \"\"\"Process a list of patches.",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "apply_all_patches",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def apply_all_patches(\n    build_ctx: BuildContext,\n    commit_each: bool = False,\n    dry_run: bool = False,\n    interactive: bool = False,\n) -> Tuple[int, List[str]]:\n    \"\"\"Apply all patches from patches directory.\n    Args:\n        build_ctx: Build context\n        commit_each: Create a commit after each patch",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "apply_feature_patches",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def apply_feature_patches(\n    build_ctx: BuildContext,\n    feature_name: str,\n    commit_each: bool = False,\n    dry_run: bool = False,\n) -> Tuple[int, List[str]]:\n    \"\"\"Apply patches for a specific feature.\n    Args:\n        build_ctx: Build context\n        feature_name: Name of the feature",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "apply_group",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def apply_group():\n    \"\"\"Apply patches to Chromium source\"\"\"\n    pass\n@apply_group.command(name=\"all\")\n@click.option(\"--commit-each\", is_flag=True, help=\"Create git commit after each patch\")\n@click.option(\"--dry-run\", is_flag=True, help=\"Test patches without applying\")\n@click.pass_context\ndef apply_all(ctx, commit_each, dry_run):\n    \"\"\"Apply all patches from chromium_src/\n    \\b",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "apply_all",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def apply_all(ctx, commit_each, dry_run):\n    \"\"\"Apply all patches from chromium_src/\n    \\b\n    Examples:\n      dev apply all\n      dev apply all --commit-each\n      dev apply all --dry-run\n    \"\"\"\n    chromium_src = ctx.parent.obj.get(\"chromium_src\")\n    from dev import create_build_context",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "apply_feature",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.apply",
+        "description": "packages.browseros.build.modules.dev_cli.apply",
+        "peekOfCode": "def apply_feature(ctx, feature_name, commit_each, dry_run):\n    \"\"\"Apply patches for a specific feature\n    \\b\n    Examples:\n      dev apply feature llm-chat\n      dev apply feature my-feature --commit-each\n    \"\"\"\n    chromium_src = ctx.parent.obj.get(\"chromium_src\")\n    from dev import create_build_context\n    build_ctx = create_build_context(chromium_src)",
+        "detail": "packages.browseros.build.modules.dev_cli.apply",
+        "documentation": {}
+    },
+    {
+        "label": "extract_group",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_group():\n    \"\"\"Extract patches from git commits\"\"\"\n    pass\n@extract_group.command(name=\"commit\")\n@click.argument(\"commit\")\n@click.option(\"--verbose\", \"-v\", is_flag=True, help=\"Show detailed output\")\n@click.option(\"--force\", \"-f\", is_flag=True, help=\"Overwrite existing patches\")\n@click.option(\"--include-binary\", is_flag=True, help=\"Include binary files\")\n@click.option(\"--base\", help=\"Extract full diff from base commit for files in COMMIT\")\n@click.pass_context",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_commit",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_commit(ctx, commit, verbose, force, include_binary, base):\n    \"\"\"Extract patches from a single commit\n    \\b\n    Examples:\n      dev extract commit HEAD\n      dev extract commit abc123\n      dev extract commit HEAD~1 --verbose\n      dev extract commit HEAD --base chromium/main\n    With --base, extracts files changed in COMMIT but shows\n    the full diff from base..COMMIT for those files.",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_range",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_range(\n    ctx, base_commit, head_commit, verbose, force, include_binary, squash, base\n):\n    \"\"\"Extract patches from a range of commits\n    \\b\n    Examples:\n      dev extract range main HEAD\n      dev extract range HEAD~5 HEAD\n      dev extract range chromium-base HEAD --squash\n      dev extract range HEAD~5 HEAD --base upstream/main",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_single_commit",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_single_commit(\n    ctx: BuildContext,\n    commit_hash: str,\n    verbose: bool = False,\n    force: bool = False,\n    include_binary: bool = False,\n    base: Optional[str] = None,\n) -> int:\n    \"\"\"Extract patches from a single commit\n    Args:",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_normal",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_normal(\n    ctx: BuildContext,\n    commit_hash: str,\n    verbose: bool,\n    force: bool,\n    include_binary: bool,\n) -> int:\n    \"\"\"Extract patches normally (diff against parent)\"\"\"\n    # Get diff against parent\n    diff_cmd = [\"git\", \"diff\", f\"{commit_hash}^..{commit_hash}\"]",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_with_base",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_with_base(\n    ctx: BuildContext,\n    commit_hash: str,\n    base: str,\n    verbose: bool,\n    force: bool,\n    include_binary: bool,\n) -> int:\n    \"\"\"Extract patches with custom base (full diff from base for files in commit)\"\"\"\n    # Step 1: Get list of files changed in the commit",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "check_overwrite",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def check_overwrite(ctx: BuildContext, file_patches: Dict, verbose: bool) -> bool:\n    \"\"\"Check for existing patches and prompt for overwrite\"\"\"\n    existing_patches = []\n    for file_path in file_patches.keys():\n        patch_path = ctx.get_patch_path_for_file(file_path)\n        if patch_path.exists():\n            existing_patches.append(file_path)\n    if existing_patches:\n        log_warning(f\"Found {len(existing_patches)} existing patches\")\n        if verbose:",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "write_patches",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def write_patches(\n    ctx: BuildContext,\n    file_patches: Dict[str, FilePatch],\n    verbose: bool,\n    include_binary: bool,\n) -> int:\n    \"\"\"Write patches to disk\"\"\"\n    success_count = 0\n    fail_count = 0\n    skip_count = 0",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_commit_range",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_commit_range(\n    ctx: BuildContext,\n    base_commit: str,\n    head_commit: str,\n    verbose: bool = False,\n    force: bool = False,\n    include_binary: bool = False,\n    custom_base: Optional[str] = None,\n) -> int:\n    \"\"\"Extract patches from a commit range as a single cumulative diff",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "extract_commits_individually",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.extract",
+        "description": "packages.browseros.build.modules.dev_cli.extract",
+        "peekOfCode": "def extract_commits_individually(\n    ctx: BuildContext,\n    base_commit: str,\n    head_commit: str,\n    verbose: bool = False,\n    force: bool = False,\n    include_binary: bool = False,\n    custom_base: Optional[str] = None,\n) -> int:\n    \"\"\"Extract patches from each commit in a range individually",
+        "detail": "packages.browseros.build.modules.dev_cli.extract",
+        "documentation": {}
+    },
+    {
+        "label": "feature_group",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.feature",
+        "description": "packages.browseros.build.modules.dev_cli.feature",
+        "peekOfCode": "def feature_group():\n    \"\"\"Manage feature-to-file mappings\"\"\"\n    pass\n@feature_group.command(name=\"add\")\n@click.argument(\"feature_name\")\n@click.argument(\"commit\")\n@click.option(\"--description\", \"-d\", help=\"Description of the feature\")\n@click.pass_context\ndef add_feature(ctx, feature_name, commit, description):\n    \"\"\"Add files from a commit to a feature",
+        "detail": "packages.browseros.build.modules.dev_cli.feature",
+        "documentation": {}
+    },
+    {
+        "label": "add_feature",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.feature",
+        "description": "packages.browseros.build.modules.dev_cli.feature",
+        "peekOfCode": "def add_feature(ctx, feature_name, commit, description):\n    \"\"\"Add files from a commit to a feature\n    \\b\n    Examples:\n      dev feature add llm-chat HEAD\n      dev feature add my-feature abc123 -d \"My new feature\"\n    \"\"\"\n    chromium_src = ctx.parent.obj.get(\"chromium_src\")\n    from dev import create_build_context\n    build_ctx = create_build_context(chromium_src)",
+        "detail": "packages.browseros.build.modules.dev_cli.feature",
+        "documentation": {}
+    },
+    {
+        "label": "list_features",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.feature",
+        "description": "packages.browseros.build.modules.dev_cli.feature",
+        "peekOfCode": "def list_features(ctx):\n    \"\"\"List all features\"\"\"\n    # Use current directory's features.yaml\n    features_path = Path.cwd() / \"features.yaml\"\n    if not features_path.exists():\n        log_warning(\"No features defined (features.yaml not found)\")\n        return\n    with open(features_path) as f:\n        data = yaml.safe_load(f) or {}\n    features = data.get(\"features\", {})",
+        "detail": "packages.browseros.build.modules.dev_cli.feature",
+        "documentation": {}
+    },
+    {
+        "label": "show_feature",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.feature",
+        "description": "packages.browseros.build.modules.dev_cli.feature",
+        "peekOfCode": "def show_feature(ctx, feature_name):\n    \"\"\"Show details of a specific feature\"\"\"\n    features_path = Path.cwd() / \"features.yaml\"\n    if not features_path.exists():\n        log_error(\"No features.yaml found\")\n        ctx.exit(1)\n    with open(features_path) as f:\n        data = yaml.safe_load(f)\n    features = data.get(\"features\", {})\n    if feature_name not in features:",
+        "detail": "packages.browseros.build.modules.dev_cli.feature",
+        "documentation": {}
+    },
+    {
+        "label": "generate_patch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.feature",
+        "description": "packages.browseros.build.modules.dev_cli.feature",
+        "peekOfCode": "def generate_patch(ctx, feature_name, output):\n    \"\"\"Generate combined patch for a feature\n    \\b\n    Examples:\n      dev feature generate-patch llm-chat\n      dev feature generate-patch my-feature -o combined.patch\n    \"\"\"\n    # Load feature\n    features_path = Path.cwd() / \"features.yaml\"\n    if not features_path.exists():",
+        "detail": "packages.browseros.build.modules.dev_cli.feature",
+        "documentation": {}
+    },
+    {
+        "label": "remove_feature",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.feature",
+        "description": "packages.browseros.build.modules.dev_cli.feature",
+        "peekOfCode": "def remove_feature(ctx, feature_name):\n    \"\"\"Remove a feature\"\"\"\n    features_path = Path.cwd() / \"features.yaml\"\n    if not features_path.exists():\n        log_error(\"No features.yaml found\")\n        ctx.exit(1)\n    with open(features_path) as f:\n        data = yaml.safe_load(f)\n    features = data.get(\"features\", {})\n    if feature_name not in features:",
+        "detail": "packages.browseros.build.modules.dev_cli.feature",
+        "documentation": {}
+    },
+    {
+        "label": "test_regular_modify",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_regular_modify():\n    \"\"\"Test regular file modification\"\"\"\n    diff = \"\"\"diff --git a/file.txt b/file.txt\nindex abc123..def456 100644\n--- a/file.txt\n+++ b/file.txt\n@@ -1,3 +1,3 @@\n line1\n-old line2\n+new line2",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_new_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_new_file():\n    \"\"\"Test new file addition\"\"\"\n    diff = \"\"\"diff --git a/newfile.txt b/newfile.txt\nnew file mode 100644\nindex 0000000..abc123\n--- /dev/null\n+++ b/newfile.txt\n@@ -0,0 +1,3 @@\n+line1\n+line2",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_deleted_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_deleted_file():\n    \"\"\"Test file deletion\"\"\"\n    diff = \"\"\"diff --git a/deleted.txt b/deleted.txt\ndeleted file mode 100644\nindex abc123..0000000\n--- a/deleted.txt\n+++ /dev/null\n@@ -1,3 +0,0 @@\n-line1\n-line2",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_renamed_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_renamed_file():\n    \"\"\"Test file rename\"\"\"\n    diff = \"\"\"diff --git a/old_name.txt b/new_name.txt\nsimilarity index 100%\nrename from old_name.txt\nrename to new_name.txt\"\"\"\n    result = parse_diff_output(diff)\n    assert len(result) == 1\n    assert \"new_name.txt\" in result\n    patch = result[\"new_name.txt\"]",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_renamed_with_changes",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_renamed_with_changes():\n    \"\"\"Test file rename with content changes\"\"\"\n    diff = \"\"\"diff --git a/old_name.txt b/new_name.txt\nsimilarity index 85%\nrename from old_name.txt\nrename to new_name.txt\nindex abc123..def456 100644\n--- a/old_name.txt\n+++ b/new_name.txt\n@@ -1,3 +1,4 @@",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_binary_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_binary_file():\n    \"\"\"Test binary file handling\"\"\"\n    diff = \"\"\"diff --git a/image.png b/image.png\nindex abc123..def456 100644\nBinary files a/image.png and b/image.png differ\"\"\"\n    result = parse_diff_output(diff)\n    assert len(result) == 1\n    assert \"image.png\" in result\n    patch = result[\"image.png\"]\n    assert patch.is_binary",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_multiple_files",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_multiple_files():\n    \"\"\"Test multiple files in one diff\"\"\"\n    diff = \"\"\"diff --git a/file1.txt b/file1.txt\nindex abc123..def456 100644\n--- a/file1.txt\n+++ b/file1.txt\n@@ -1 +1 @@\n-old content\n+new content\ndiff --git a/file2.txt b/file2.txt",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_no_newline_marker",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_no_newline_marker():\n    \"\"\"Test handling of 'No newline at end of file' marker\"\"\"\n    diff = \"\"\"diff --git a/file.txt b/file.txt\nindex abc123..def456 100644\n--- a/file.txt\n+++ b/file.txt\n@@ -1 +1 @@\n-old content\n\\\\ No newline at end of file\n+new content",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_complex_path",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_complex_path():\n    \"\"\"Test handling of complex file paths\"\"\"\n    diff = \"\"\"diff --git a/src/chrome/browser/ui/views/file.cc b/src/chrome/browser/ui/views/file.cc\nindex abc123..def456 100644\n--- a/src/chrome/browser/ui/views/file.cc\n+++ b/src/chrome/browser/ui/views/file.cc\n@@ -100,7 +100,7 @@ void Function() {\n   int x = 1;\n-  int y = 2;\n+  int y = 3;",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_empty_diff",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_empty_diff():\n    \"\"\"Test empty diff handling\"\"\"\n    diff = \"\"\n    result = parse_diff_output(diff)\n    assert len(result) == 0\n    print(\"✓ Empty diff test passed\")\ndef test_mode_change():\n    \"\"\"Test file mode change\"\"\"\n    diff = \"\"\"diff --git a/script.sh b/script.sh\nold mode 100644",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_mode_change",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_mode_change():\n    \"\"\"Test file mode change\"\"\"\n    diff = \"\"\"diff --git a/script.sh b/script.sh\nold mode 100644\nnew mode 100755\nindex abc123..abc123\n--- a/script.sh\n+++ b/script.sh\n@@ -1 +1 @@\n #!/bin/bash\"\"\"",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "test_copied_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def test_copied_file():\n    \"\"\"Test file copy\"\"\"\n    diff = \"\"\"diff --git a/original.txt b/copy.txt\nsimilarity index 100%\ncopy from original.txt\ncopy to copy.txt\"\"\"\n    result = parse_diff_output(diff)\n    assert len(result) == 1\n    assert \"copy.txt\" in result\n    patch = result[\"copy.txt\"]",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "run_all_tests",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "description": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "peekOfCode": "def run_all_tests():\n    \"\"\"Run all test cases\"\"\"\n    tests = [\n        test_regular_modify,\n        test_new_file,\n        test_deleted_file,\n        test_renamed_file,\n        test_renamed_with_changes,\n        test_binary_file,\n        test_multiple_files,",
+        "detail": "packages.browseros.build.modules.dev_cli.test_diff_parser",
+        "documentation": {}
+    },
+    {
+        "label": "FileOperation",
+        "kind": 6,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "class FileOperation(Enum):\n    \"\"\"Types of file operations in a diff\"\"\"\n    ADD = \"add\"\n    MODIFY = \"modify\"\n    DELETE = \"delete\"\n    RENAME = \"rename\"\n    COPY = \"copy\"\n    BINARY = \"binary\"\n@dataclass\nclass FilePatch:",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "FilePatch",
+        "kind": 6,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "class FilePatch:\n    \"\"\"Represents a single file's patch information\"\"\"\n    file_path: str\n    operation: FileOperation\n    old_path: Optional[str] = None  # For renames/copies\n    patch_content: Optional[str] = None\n    is_binary: bool = False\n    similarity: Optional[int] = None  # For renames (percentage)\nclass GitError(Exception):\n    \"\"\"Custom exception for git operations\"\"\"",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "GitError",
+        "kind": 6,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "class GitError(Exception):\n    \"\"\"Custom exception for git operations\"\"\"\n    pass\ndef run_git_command(\n    cmd: List[str],\n    cwd: Path,\n    capture: bool = True,\n    check: bool = False,\n    timeout: Optional[int] = None,\n    binary_output: bool = False,",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_git_command",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def run_git_command(\n    cmd: List[str],\n    cwd: Path,\n    capture: bool = True,\n    check: bool = False,\n    timeout: Optional[int] = None,\n    binary_output: bool = False,\n) -> subprocess.CompletedProcess:\n    \"\"\"Run a git command and return the result\n    Args:",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_git_repository",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def validate_git_repository(path: Path) -> bool:\n    \"\"\"Validate that a path is a git repository\"\"\"\n    try:\n        result = run_git_command(\n            [\"git\", \"rev-parse\", \"--git-dir\"], cwd=path, check=False\n        )\n        return result.returncode == 0\n    except GitError:\n        return False\ndef validate_commit_exists(commit_hash: str, chromium_src: Path) -> bool:",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "validate_commit_exists",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def validate_commit_exists(commit_hash: str, chromium_src: Path) -> bool:\n    \"\"\"Validate that a commit exists in the repository\"\"\"\n    try:\n        result = run_git_command(\n            [\"git\", \"rev-parse\", \"--verify\", f\"{commit_hash}^{{commit}}\"],\n            cwd=chromium_src,\n        )\n        if result.returncode != 0:\n            log_error(f\"Commit '{commit_hash}' not found in repository\")\n            return False",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_commit_changed_files",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def get_commit_changed_files(commit_hash: str, chromium_src: Path) -> List[str]:\n    \"\"\"Get list of files changed in a commit\"\"\"\n    try:\n        result = run_git_command(\n            [\"git\", \"diff-tree\", \"--no-commit-id\", \"--name-only\", \"-r\", commit_hash],\n            cwd=chromium_src,\n        )\n        if result.returncode != 0:\n            log_error(f\"Failed to get changed files for commit {commit_hash}\")\n            return []",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "parse_diff_output",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def parse_diff_output(diff_output: str) -> Dict[str, FilePatch]:\n    \"\"\"\n    Parse git diff output into individual file patches with full metadata.\n    Handles:\n    - Regular file modifications\n    - New files\n    - Deleted files\n    - Binary files\n    - File renames\n    - File copies",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_patch_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def write_patch_file(ctx: BuildContext, file_path: str, patch_content: str) -> bool:\n    \"\"\"\n    Write a patch file to chromium_src directory structure.\n    Args:\n        ctx: Build context\n        file_path: Path of the file being patched\n        patch_content: The patch content to write\n    Returns:\n        True if successful, False otherwise\n    \"\"\"",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_deletion_marker",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def create_deletion_marker(ctx: BuildContext, file_path: str) -> bool:\n    \"\"\"\n    Create a marker file for deleted files.\n    Args:\n        ctx: Build context\n        file_path: Path of the deleted file\n    Returns:\n        True if successful, False otherwise\n    \"\"\"\n    marker_path = ctx.get_dev_patches_dir() / file_path",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_binary_marker",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def create_binary_marker(\n    ctx: BuildContext, file_path: str, operation: FileOperation\n) -> bool:\n    \"\"\"\n    Create a marker file for binary files.\n    Args:\n        ctx: Build context\n        file_path: Path of the binary file\n        operation: The operation type\n    Returns:",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "apply_single_patch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def apply_single_patch(\n    patch_path: Path, chromium_src: Path, interactive: bool = True\n) -> Tuple[bool, str]:\n    \"\"\"\n    Apply a single patch file to chromium source with multiple strategies.\n    Tries in order:\n    1. Standard git apply\n    2. Three-way merge\n    3. Patch command fallback\n    4. Interactive conflict resolution",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "handle_patch_conflict",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def handle_patch_conflict(\n    patch_path: Path, chromium_src: Path, error_msg: str = \"\"\n) -> Tuple[bool, str]:\n    \"\"\"Handle patch conflict interactively with detailed options\"\"\"\n    click.echo(f\"\\n{click.style('CONFLICT:', fg='red', bold=True)} {patch_path}\")\n    if error_msg:\n        # Parse error message for more context\n        lines = error_msg.strip().split(\"\\n\")\n        for line in lines[:5]:  # Show first 5 lines of error\n            click.echo(f\"  {line}\")",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_git_commit",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def create_git_commit(chromium_src: Path, message: str) -> bool:\n    \"\"\"Create a git commit with the given message\"\"\"\n    # Check if there are changes to commit\n    result = run_git_command([\"git\", \"status\", \"--porcelain\"], cwd=chromium_src)\n    if not result.stdout.strip():\n        log_warning(\"Nothing to commit, working tree clean\")\n        return True\n    # Stage all changes\n    result = run_git_command([\"git\", \"add\", \"-A\"], cwd=chromium_src)\n    if result.returncode != 0:",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_commit_info",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def get_commit_info(commit_hash: str, chromium_src: Path) -> Optional[Dict[str, str]]:\n    \"\"\"Get detailed information about a commit\"\"\"\n    try:\n        # Get commit info in a structured format\n        result = run_git_command(\n            [\n                \"git\",\n                \"show\",\n                \"--format=%H%n%an%n%ae%n%at%n%s%n%b\",\n                \"--no-patch\",",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "prompt_yes_no",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def prompt_yes_no(question: str, default: bool = False) -> bool:\n    \"\"\"Prompt user for yes/no question\"\"\"\n    default_str = \"Y/n\" if default else \"y/N\"\n    result = click.prompt(\n        f\"{question} [{default_str}]\", type=str, default=\"y\" if default else \"n\"\n    )\n    return result.lower() in (\"y\", \"yes\")\ndef log_extraction_summary(file_patches: Dict[str, FilePatch]):\n    \"\"\"Log a detailed summary of extracted patches\"\"\"\n    total = len(file_patches)",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_extraction_summary",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def log_extraction_summary(file_patches: Dict[str, FilePatch]):\n    \"\"\"Log a detailed summary of extracted patches\"\"\"\n    total = len(file_patches)\n    # Count by operation type\n    operations = {op: 0 for op in FileOperation}\n    binary_count = 0\n    for patch in file_patches.values():\n        operations[patch.operation] += 1\n        if patch.is_binary:\n            binary_count += 1",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_apply_summary",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.dev_cli.utils",
+        "description": "packages.browseros.build.modules.dev_cli.utils",
+        "peekOfCode": "def log_apply_summary(results: List[Tuple[str, bool, str]]):\n    \"\"\"Log a detailed summary of applied patches\"\"\"\n    total = len(results)\n    successful = sum(1 for _, success, _ in results if success)\n    failed = total - successful\n    click.echo(\n        \"\\n\"\n        + click.style(\n            \"Apply Summary\", fg=\"green\" if failed == 0 else \"yellow\", bold=True\n        )",
+        "detail": "packages.browseros.build.modules.dev_cli.utils",
+        "documentation": {}
+    },
+    {
+        "label": "replace_chromium_files",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.chromium_replace",
+        "description": "packages.browseros.build.modules.chromium_replace",
+        "peekOfCode": "def replace_chromium_files(ctx: BuildContext, replacements=None) -> bool:\n    \"\"\"Replace files in chromium source with custom files from chromium_files directory\"\"\"\n    log_info(\"\\n🔄 Replacing chromium files...\")\n    log_info(f\"  Build type: {ctx.build_type}\")\n    # Source directory containing replacement files\n    replacement_dir = ctx.get_chromium_replace_files_dir()\n    if not replacement_dir.exists():\n        log_info(f\"⚠️  No chromium_files directory found at: {replacement_dir}\")\n        return True\n    replaced_count = 0",
+        "detail": "packages.browseros.build.modules.chromium_replace",
+        "documentation": {}
+    },
+    {
+        "label": "add_file_to_replacements",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.chromium_replace",
+        "description": "packages.browseros.build.modules.chromium_replace",
+        "peekOfCode": "def add_file_to_replacements(\n    file_path: Path, chromium_src: Path, root_dir: Path\n) -> bool:\n    \"\"\"Add a file from chromium source to the replacement directory\"\"\"\n    # Validate the file is within chromium_src\n    try:\n        relative_path = file_path.relative_to(chromium_src)\n    except ValueError:\n        log_error(\n            f\"File {file_path} is not within chromium source directory {chromium_src}\"",
+        "detail": "packages.browseros.build.modules.chromium_replace",
+        "documentation": {}
+    },
+    {
+        "label": "clean",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.clean",
+        "description": "packages.browseros.build.modules.clean",
+        "peekOfCode": "def clean(ctx: BuildContext) -> bool:\n    \"\"\"Clean build artifacts\"\"\"\n    log_info(\"🧹 Cleaning build artifacts...\")\n    out_path = ctx.chromium_src / ctx.out_dir\n    if out_path.exists():\n        safe_rmtree(out_path)\n        log_success(\"Cleaned build directory\")\n    log_info(\"\\n🔀 Resetting git branch and removing all tracked files...\")\n    git_reset(ctx)\n    log_info(\"\\n🧹 Cleaning Sparkle build artifacts...\")",
+        "detail": "packages.browseros.build.modules.clean",
+        "documentation": {}
+    },
+    {
+        "label": "clean_sparkle",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.clean",
+        "description": "packages.browseros.build.modules.clean",
+        "peekOfCode": "def clean_sparkle(ctx: BuildContext) -> bool:\n    \"\"\"Clean Sparkle build artifacts\"\"\"\n    log_info(\"\\n🧹 Cleaning Sparkle build artifacts...\")\n    sparkle_dir = ctx.get_sparkle_dir()\n    if sparkle_dir.exists():\n        safe_rmtree(sparkle_dir)\n    log_success(\"Cleaned Sparkle build directory\")\n    return True\ndef git_reset(ctx: BuildContext) -> bool:\n    \"\"\"Reset git branch and clean with exclusions\"\"\"",
+        "detail": "packages.browseros.build.modules.clean",
+        "documentation": {}
+    },
+    {
+        "label": "git_reset",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.clean",
+        "description": "packages.browseros.build.modules.clean",
+        "peekOfCode": "def git_reset(ctx: BuildContext) -> bool:\n    \"\"\"Reset git branch and clean with exclusions\"\"\"\n    os.chdir(ctx.chromium_src)\n    run_command([\"git\", \"reset\", \"--hard\", \"HEAD\"])\n    os.chdir(ctx.root_dir)\n    log_info(\"\\n🧹 Running git clean with exclusions for important directories...\")\n    os.chdir(ctx.chromium_src)\n    run_command(\n        [\n            \"git\",",
+        "detail": "packages.browseros.build.modules.clean",
+        "documentation": {}
+    },
+    {
+        "label": "build",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.compile",
+        "description": "packages.browseros.build.modules.compile",
+        "peekOfCode": "def build(ctx: BuildContext) -> bool:\n    \"\"\"Run the actual build\"\"\"\n    log_info(\"\\n🔨 Building Nxtscape (this will take a while)...\")\n    # Create VERSION file with nxtscape_chromium_version\n    if ctx.nxtscape_chromium_version:\n        # Parse the nxtscape_chromium_version back into components\n        parts = ctx.nxtscape_chromium_version.split(\".\")\n        if len(parts) == 4:\n            version_content = f\"MAJOR={parts[0]}\\nMINOR={parts[1]}\\nBUILD={parts[2]}\\nPATCH={parts[3]}\"\n            # Create temporary VERSION file",
+        "detail": "packages.browseros.build.modules.compile",
+        "documentation": {}
+    },
+    {
+        "label": "configure",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.configure",
+        "description": "packages.browseros.build.modules.configure",
+        "peekOfCode": "def configure(ctx: BuildContext, gn_flags_file: Optional[Path] = None) -> bool:\n    \"\"\"Configure the build with GN\"\"\"\n    log_info(f\"\\n⚙️  Configuring {ctx.build_type} build for {ctx.architecture}...\")\n    # Create output directory\n    out_path = join_paths(ctx.chromium_src, ctx.out_dir)\n    out_path.mkdir(parents=True, exist_ok=True)\n    # Copy build flags\n    if gn_flags_file is None:\n        flags_file = ctx.get_gn_flags_file()\n    else:",
+        "detail": "packages.browseros.build.modules.configure",
+        "documentation": {}
+    },
+    {
+        "label": "upload_to_gcs",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "def upload_to_gcs(\n    ctx: BuildContext,\n    file_paths: List[Path],\n    platform_override: Optional[str] = None\n) -> Tuple[bool, List[str]]:\n    \"\"\"Upload build artifacts to Google Cloud Storage\n    Args:\n        ctx: BuildContext with root_dir and nxtscape_version\n        file_paths: List of file paths to upload\n        platform_override: Optional platform override (macos/linux/win)",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "upload_package_artifacts",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "def upload_package_artifacts(ctx: BuildContext) -> tuple[bool, List[str]]:\n    \"\"\"Upload package artifacts (DMG, ZIP, EXE) to GCS\n    Returns: (success, list of GCS URIs)\"\"\"\n    log_info(\"\\n☁️  Preparing to upload package artifacts to GCS...\")\n    artifacts = []\n    # Look for files in the dist/<version> directory\n    dist_dir = ctx.get_dist_dir()\n    if dist_dir.exists():\n        if IS_MACOS:\n            # Look for DMG files",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "upload_signed_artifacts",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "def upload_signed_artifacts(ctx: BuildContext) -> bool:\n    \"\"\"Upload signed artifacts to GCS\"\"\"\n    # For now, this is the same as package artifacts\n    # Can be extended in the future for specific signed artifacts\n    return upload_package_artifacts(ctx)\ndef download_from_gcs(\n    bucket_name: str,\n    source_path: str,\n    dest_path: Path,\n    ctx: Optional[BuildContext] = None,",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "download_from_gcs",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "def download_from_gcs(\n    bucket_name: str,\n    source_path: str,\n    dest_path: Path,\n    ctx: Optional[BuildContext] = None,\n) -> bool:\n    \"\"\"Download a file from GCS (utility function)\"\"\"\n    if not GCS_AVAILABLE:\n        log_error(\"google-cloud-storage not installed\")\n        return False",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "handle_upload_dist",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "def handle_upload_dist(\n    dist_path: Path,\n    root_dir: Path,\n    platform_override: Optional[str] = None\n) -> bool:\n    \"\"\"Upload pre-built artifacts from a dist directory to GCS\n    This is the main entry point for manual uploads of already-built artifacts.\n    Args:\n        dist_path: Path to dist/<version> directory containing artifacts\n        root_dir: Root directory of the project (for finding gclient.json)",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "SERVICE_ACCOUNT_FILE",
+        "kind": 5,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "SERVICE_ACCOUNT_FILE = \"gclient.json\"\n# GCS bucket configuration\nGCS_BUCKET_NAME = \"nxtscape\"\ndef _get_platform_dir(platform_override: Optional[str] = None) -> str:\n    \"\"\"Get platform directory name for GCS path\"\"\"\n    if platform_override:\n        return platform_override\n    if IS_WINDOWS:\n        return \"win\"\n    elif IS_MACOS:",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "GCS_BUCKET_NAME",
+        "kind": 5,
+        "importPath": "packages.browseros.build.modules.gcs",
+        "description": "packages.browseros.build.modules.gcs",
+        "peekOfCode": "GCS_BUCKET_NAME = \"nxtscape\"\ndef _get_platform_dir(platform_override: Optional[str] = None) -> str:\n    \"\"\"Get platform directory name for GCS path\"\"\"\n    if platform_override:\n        return platform_override\n    if IS_WINDOWS:\n        return \"win\"\n    elif IS_MACOS:\n        return \"macos\"\n    else:",
+        "detail": "packages.browseros.build.modules.gcs",
+        "documentation": {}
+    },
+    {
+        "label": "setup_git",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.git",
+        "description": "packages.browseros.build.modules.git",
+        "peekOfCode": "def setup_git(ctx: BuildContext) -> bool:\n    \"\"\"Setup git and checkout Chromium\"\"\"\n    log_info(f\"\\n🔀 Setting up Chromium {ctx.chromium_version}...\")\n    os.chdir(ctx.chromium_src)\n    # Fetch all tags and checkout\n    log_info(\"📥 Fetching all tags from remote...\")\n    run_command([\"git\", \"fetch\", \"--tags\", \"--force\"])\n    # Verify tag exists before checkout\n    result = subprocess.run(\n        [\"git\", \"tag\", \"-l\", ctx.chromium_version],",
+        "detail": "packages.browseros.build.modules.git",
+        "documentation": {}
+    },
+    {
+        "label": "setup_sparkle",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.git",
+        "description": "packages.browseros.build.modules.git",
+        "peekOfCode": "def setup_sparkle(ctx: BuildContext) -> bool:\n    \"\"\"Download and setup Sparkle framework\"\"\"\n    log_info(\"\\n✨ Setting up Sparkle framework...\")\n    sparkle_dir = ctx.get_sparkle_dir()\n    # Clean existing\n    if sparkle_dir.exists():\n        safe_rmtree(sparkle_dir)\n    sparkle_dir.mkdir(parents=True)\n    # Download Sparkle\n    sparkle_url = ctx.get_sparkle_url()",
+        "detail": "packages.browseros.build.modules.git",
+        "documentation": {}
+    },
+    {
+        "label": "inject_version",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def inject_version(ctx: BuildContext) -> bool:\n    \"\"\"Inject browser version into manifest.json files\"\"\"\n    log_info(\"\\n💉 Injecting browser version into extension manifests...\")\n    # Hardcoded paths to manifest files\n    manifest_paths = [\n        join_paths(\n            ctx.root_dir, \"resources\", \"files\", \"ai_side_panel\", \"manifest.json\"\n        ),\n        join_paths(ctx.root_dir, \"resources\", \"files\", \"bug_reporter\", \"manifest.json\"),\n    ]",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "inject_version_to_manifest",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def inject_version_to_manifest(\n    manifest_path: Path, browser_version: str, nxtscape_version: str\n) -> bool:\n    \"\"\"Inject browser version and increment version into a single manifest.json file\"\"\"\n    try:\n        if not manifest_path.exists():\n            log_error(f\"Manifest not found: {manifest_path}\")\n            return False\n        # Read existing manifest\n        with open(manifest_path, \"r\", encoding=\"utf-8\") as f:",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "increment_version",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def increment_version(version: str) -> str:\n    \"\"\"Increment version string by 1 in the last component\"\"\"\n    parts = version.split(\".\")\n    if not parts:\n        return \"0.0.1\"\n    # Try to increment the last numeric part\n    for i in range(len(parts) - 1, -1, -1):\n        try:\n            # Convert to int, increment, and convert back\n            incremented = int(parts[i]) + 1",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "validate_json_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def validate_json_file(file_path: Path) -> bool:\n    \"\"\"Validate that a file contains valid JSON\"\"\"\n    try:\n        with open(file_path, \"r\", encoding=\"utf-8\") as f:\n            json.load(f)\n        return True\n    except json.JSONDecodeError:\n        return False\n    except Exception:\n        return False",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "remove_browser_version",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def remove_browser_version(ctx: BuildContext) -> bool:\n    \"\"\"Remove browser version from manifest.json files (for cleanup)\"\"\"\n    log_info(\"\\n🧹 Removing browser version from extension manifests...\")\n    # Hardcoded paths to manifest files\n    manifest_paths = [\n        join_paths(\n            ctx.root_dir, \"resources\", \"files\", \"ai_side_panel\", \"manifest.json\"\n        ),\n        join_paths(ctx.root_dir, \"resources\", \"files\", \"bug_reporter\", \"manifest.json\"),\n    ]",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "remove_version_from_manifest",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def remove_version_from_manifest(manifest_path: Path) -> bool:\n    \"\"\"Remove browser version from a single manifest.json file\"\"\"\n    try:\n        if not manifest_path.exists():\n            return True  # Nothing to remove\n        # Read existing manifest\n        with open(manifest_path, \"r\", encoding=\"utf-8\") as f:\n            manifest_data = json.load(f)\n        # Remove browser_version field if it exists\n        if \"browser_version\" in manifest_data:",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "get_manifest_version",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.inject",
+        "description": "packages.browseros.build.modules.inject",
+        "peekOfCode": "def get_manifest_version(manifest_path: Path) -> str:\n    \"\"\"Get the current version from a manifest.json file\"\"\"\n    try:\n        with open(manifest_path, \"r\", encoding=\"utf-8\") as f:\n            manifest_data = json.load(f)\n            return manifest_data.get(\"version\", \"unknown\")\n    except Exception:\n        return \"unknown\"",
+        "detail": "packages.browseros.build.modules.inject",
+        "documentation": {}
+    },
+    {
+        "label": "merge_architectures",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.merge",
+        "description": "packages.browseros.build.modules.merge",
+        "peekOfCode": "def merge_architectures(\n    arch1_path: Path,\n    arch2_path: Path,\n    output_path: Path,\n    universalizer_script: Path = None,\n) -> bool:\n    \"\"\"\n    Merge two architecture builds into a universal binary\n    Args:\n        arch1_path: Path to first architecture .app bundle",
+        "detail": "packages.browseros.build.modules.merge",
+        "documentation": {}
+    },
+    {
+        "label": "create_minimal_context",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.merge",
+        "description": "packages.browseros.build.modules.merge",
+        "peekOfCode": "def create_minimal_context(\n    app_path: Path, chromium_src: Path, root_dir: Path, architecture: str = \"universal\"\n) -> BuildContext:\n    \"\"\"Create a minimal BuildContext for signing/packaging operations\"\"\"\n    out_dir_path = app_path.parent  # out/Default_universal\n    log_info(f\"Creating context from app path: {app_path}\")\n    log_info(f\"  Out dir: {out_dir_path}\")\n    log_info(f\"  Chromium src: {chromium_src}\")\n    log_info(f\"  Root dir: {root_dir}\")\n    ctx = BuildContext(",
+        "detail": "packages.browseros.build.modules.merge",
+        "documentation": {}
+    },
+    {
+        "label": "merge_sign_package",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.merge",
+        "description": "packages.browseros.build.modules.merge",
+        "peekOfCode": "def merge_sign_package(\n    arch1_path: Path,\n    arch2_path: Path,\n    output_path: Path,\n    chromium_src: Path,\n    root_dir: Path,\n    sign: bool = True,\n    package: bool = True,\n    universalizer_script: Path = None,\n) -> bool:",
+        "detail": "packages.browseros.build.modules.merge",
+        "documentation": {}
+    },
+    {
+        "label": "handle_merge_command",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.merge",
+        "description": "packages.browseros.build.modules.merge",
+        "peekOfCode": "def handle_merge_command(\n    arch1_path: Path,\n    arch2_path: Path,\n    chromium_src: Path,\n    sign: bool = False,\n    package: bool = False,\n) -> bool:\n    \"\"\"\n    Handle the merge command from CLI\n    Args:",
+        "detail": "packages.browseros.build.modules.merge",
+        "documentation": {}
+    },
+    {
+        "label": "package",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package",
+        "description": "packages.browseros.build.modules.package",
+        "peekOfCode": "def package(ctx: BuildContext) -> bool:\n    \"\"\"Create DMG package (only if not done by signing)\"\"\"\n    if ctx.sign_package:\n        # Already handled by signing process\n        return True\n    log_info(\"\\n📀 Creating DMG package...\")\n    app_path = ctx.get_app_path()\n    dmg_dir = ctx.get_dist_dir()\n    dmg_name = ctx.get_dmg_name()\n    dmg_path = dmg_dir / dmg_name",
+        "detail": "packages.browseros.build.modules.package",
+        "documentation": {}
+    },
+    {
+        "label": "create_dmg",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package",
+        "description": "packages.browseros.build.modules.package",
+        "peekOfCode": "def create_dmg(\n    app_path: Path,\n    dmg_path: Path,\n    volume_name: str = \"BrowserOS\",\n    pkg_dmg_path: Optional[Path] = None,\n) -> bool:\n    \"\"\"Create a DMG package from an app bundle\"\"\"\n    log_info(f\"\\n📀 Creating DMG package: {dmg_path.name}\")\n    # Verify app exists\n    if not app_path.exists():",
+        "detail": "packages.browseros.build.modules.package",
+        "documentation": {}
+    },
+    {
+        "label": "sign_dmg",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package",
+        "description": "packages.browseros.build.modules.package",
+        "peekOfCode": "def sign_dmg(dmg_path: Path, certificate_name: str) -> bool:\n    \"\"\"Sign a DMG file\"\"\"\n    log_info(f\"\\n🔏 Signing DMG: {dmg_path.name}\")\n    if not dmg_path.exists():\n        log_error(f\"DMG not found at: {dmg_path}\")\n        return False\n    try:\n        run_command(\n            [\n                \"codesign\",",
+        "detail": "packages.browseros.build.modules.package",
+        "documentation": {}
+    },
+    {
+        "label": "notarize_dmg",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package",
+        "description": "packages.browseros.build.modules.package",
+        "peekOfCode": "def notarize_dmg(dmg_path: Path, keychain_profile: str = \"notarytool-profile\") -> bool:\n    \"\"\"Notarize a DMG file\"\"\"\n    log_info(f\"\\n📤 Notarizing DMG: {dmg_path.name}\")\n    if not dmg_path.exists():\n        log_error(f\"DMG not found at: {dmg_path}\")\n        return False\n    try:\n        # Submit for notarization\n        log_info(\"📤 Submitting DMG for notarization (this may take a while)...\")\n        result = run_command(",
+        "detail": "packages.browseros.build.modules.package",
+        "documentation": {}
+    },
+    {
+        "label": "create_signed_notarized_dmg",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package",
+        "description": "packages.browseros.build.modules.package",
+        "peekOfCode": "def create_signed_notarized_dmg(\n    app_path: Path,\n    dmg_path: Path,\n    certificate_name: str,\n    volume_name: str = \"BrowserOS\",\n    pkg_dmg_path: Optional[Path] = None,\n    keychain_profile: str = \"notarytool-profile\",\n) -> bool:\n    \"\"\"Create, sign, and notarize a DMG in one go\"\"\"\n    log_info(\"=\" * 70)",
+        "detail": "packages.browseros.build.modules.package",
+        "documentation": {}
+    },
+    {
+        "label": "package_universal",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package",
+        "description": "packages.browseros.build.modules.package",
+        "peekOfCode": "def package_universal(contexts: List[BuildContext]) -> bool:\n    \"\"\"Create DMG package for universal binary\"\"\"\n    log_info(\"=\" * 70)\n    log_info(\"📦 Creating universal DMG package...\")\n    log_info(\"=\" * 70)\n    if len(contexts) < 2:\n        log_error(\"Universal packaging requires at least 2 architectures\")\n        return False\n    # Use the universal app path\n    universal_dir = contexts[0].chromium_src / \"out/Default_universal\"",
+        "detail": "packages.browseros.build.modules.package",
+        "documentation": {}
+    },
+    {
+        "label": "prepare_appdir",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_linux",
+        "description": "packages.browseros.build.modules.package_linux",
+        "peekOfCode": "def prepare_appdir(ctx: BuildContext, appdir: Path) -> bool:\n    \"\"\"Prepare the AppDir structure for AppImage\"\"\"\n    log_info(\"📁 Preparing AppDir structure...\")\n    # Create directory structure\n    app_root = join_paths(appdir, \"opt\", \"browseros\")\n    usr_share = join_paths(appdir, \"usr\", \"share\")\n    icons_dir = join_paths(usr_share, \"icons\", \"hicolor\")\n    # Create directories\n    app_root.mkdir(parents=True, exist_ok=True)\n    Path(join_paths(usr_share, \"applications\")).mkdir(parents=True, exist_ok=True)",
+        "detail": "packages.browseros.build.modules.package_linux",
+        "documentation": {}
+    },
+    {
+        "label": "download_appimagetool",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_linux",
+        "description": "packages.browseros.build.modules.package_linux",
+        "peekOfCode": "def download_appimagetool(ctx: BuildContext) -> Optional[Path]:\n    \"\"\"Download appimagetool if not available\"\"\"\n    tool_dir = Path(join_paths(ctx.root_dir, \"build\", \"tools\"))\n    tool_dir.mkdir(exist_ok=True)\n    tool_path = Path(join_paths(tool_dir, \"appimagetool-x86_64.AppImage\"))\n    if tool_path.exists():\n        log_info(\"✓ appimagetool already available\")\n        return tool_path\n    log_info(\"📥 Downloading appimagetool...\")\n    url = \"https://github.com/AppImage/AppImageKit/releases/download/continuous/appimagetool-x86_64.AppImage\"",
+        "detail": "packages.browseros.build.modules.package_linux",
+        "documentation": {}
+    },
+    {
+        "label": "create_appimage",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_linux",
+        "description": "packages.browseros.build.modules.package_linux",
+        "peekOfCode": "def create_appimage(ctx: BuildContext, appdir: Path, output_path: Path) -> bool:\n    \"\"\"Create AppImage from AppDir\"\"\"\n    log_info(\"📦 Creating AppImage...\")\n    # Download appimagetool if needed\n    appimagetool = download_appimagetool(ctx)\n    if not appimagetool:\n        return False\n    # Set architecture\n    arch = \"x86_64\" if ctx.architecture == \"x64\" else \"aarch64\"\n    os.environ[\"ARCH\"] = arch",
+        "detail": "packages.browseros.build.modules.package_linux",
+        "documentation": {}
+    },
+    {
+        "label": "package",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_linux",
+        "description": "packages.browseros.build.modules.package_linux",
+        "peekOfCode": "def package(ctx: BuildContext) -> bool:\n    \"\"\"Package BrowserOS for Linux as AppImage\"\"\"\n    log_info(\n        f\"📦 Packaging {ctx.NXTSCAPE_APP_BASE_NAME} {ctx.get_nxtscape_chromium_version()} for Linux ({ctx.architecture})\"\n    )\n    # Create packaging directory\n    package_dir = ctx.get_dist_dir()\n    package_dir.mkdir(parents=True, exist_ok=True)\n    # Prepare AppDir\n    appdir = Path(join_paths(package_dir, f\"{ctx.NXTSCAPE_APP_BASE_NAME}.AppDir\"))",
+        "detail": "packages.browseros.build.modules.package_linux",
+        "documentation": {}
+    },
+    {
+        "label": "package_universal",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_linux",
+        "description": "packages.browseros.build.modules.package_linux",
+        "peekOfCode": "def package_universal(contexts: List[BuildContext]) -> bool:\n    \"\"\"Linux doesn't support universal binaries\"\"\"\n    log_warning(\"Universal binaries are not supported on Linux\")\n    return False\ndef sign_binaries(ctx: BuildContext) -> bool:\n    \"\"\"Linux doesn't require code signing like macOS/Windows\"\"\"\n    log_info(\"Code signing is not required for Linux AppImages\")\n    return True",
+        "detail": "packages.browseros.build.modules.package_linux",
+        "documentation": {}
+    },
+    {
+        "label": "sign_binaries",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_linux",
+        "description": "packages.browseros.build.modules.package_linux",
+        "peekOfCode": "def sign_binaries(ctx: BuildContext) -> bool:\n    \"\"\"Linux doesn't require code signing like macOS/Windows\"\"\"\n    log_info(\"Code signing is not required for Linux AppImages\")\n    return True",
+        "detail": "packages.browseros.build.modules.package_linux",
+        "documentation": {}
+    },
+    {
+        "label": "package",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def package(ctx: BuildContext) -> bool:\n    \"\"\"Create Windows packages (installer and portable zip)\"\"\"\n    log_info(\"\\n📦 Creating Windows packages...\")\n    # First, ensure mini_installer is built\n    if not build_mini_installer(ctx):\n        log_error(\"Failed to build mini_installer\")\n        return False\n    # Create both installer and portable zip\n    success = True\n    if create_installer(ctx):",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "build_mini_installer",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def build_mini_installer(ctx: BuildContext) -> bool:\n    \"\"\"Build the mini_installer target if it doesn't exist\"\"\"\n    log_info(\"\\n🔨 Checking mini_installer build...\")\n    # Get paths\n    build_output_dir = join_paths(ctx.chromium_src, ctx.out_dir)\n    mini_installer_path = build_output_dir / \"mini_installer.exe\"\n    if mini_installer_path.exists():\n        log_info(\"mini_installer.exe already exists\")\n        return True\n    log_info(\"Building mini_installer target...\")",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "create_installer",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def create_installer(ctx: BuildContext) -> bool:\n    \"\"\"Create Windows installer (mini_installer.exe)\"\"\"\n    log_info(\"\\n🔧 Creating Windows installer...\")\n    # Get paths\n    build_output_dir = join_paths(ctx.chromium_src, ctx.out_dir)\n    mini_installer_path = build_output_dir / \"mini_installer.exe\"\n    if not mini_installer_path.exists():\n        log_warning(f\"mini_installer.exe not found at: {mini_installer_path}\")\n        log_info(\n            \"To build the installer, run: autoninja -C out\\\\Default_x64 mini_installer\"",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "create_portable_zip",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def create_portable_zip(ctx: BuildContext) -> bool:\n    \"\"\"Create ZIP of just the installer for easier distribution\"\"\"\n    log_info(\"\\n📦 Creating installer ZIP package...\")\n    # Get paths\n    build_output_dir = join_paths(ctx.chromium_src, ctx.out_dir)\n    mini_installer_path = build_output_dir / \"mini_installer.exe\"\n    if not mini_installer_path.exists():\n        log_warning(f\"mini_installer.exe not found at: {mini_installer_path}\")\n        log_info(\n            \"To build the installer, run: autoninja -C out\\\\Default_x64 mini_installer\"",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "sign_binaries",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def sign_binaries(ctx: BuildContext, certificate_name: Optional[str] = None) -> bool:\n    \"\"\"Sign Windows binaries using SSL.com CodeSignTool\"\"\"\n    log_info(\"\\n🔏 Signing Windows binaries...\")\n    # Get paths to sign\n    build_output_dir = join_paths(ctx.chromium_src, ctx.out_dir)\n    # List of binaries to sign\n    binaries_to_sign = [\n        build_output_dir / \"chrome.exe\",\n        build_output_dir / \"mini_installer.exe\",\n    ]",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "sign_with_codesigntool",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def sign_with_codesigntool(binaries: List[Path]) -> bool:\n    \"\"\"Sign binaries using SSL.com CodeSignTool\"\"\"\n    log_info(\"Using SSL.com CodeSignTool for signing...\")\n    # Get CodeSignTool directory from environment\n    codesigntool_dir = os.environ.get(\"CODE_SIGN_TOOL_PATH\")\n    if not codesigntool_dir:\n        log_error(\"CODE_SIGN_TOOL_PATH not set in .env file\")\n        log_error(\"Set CODE_SIGN_TOOL_PATH=C:/src/CodeSignTool-v1.3.2-windows\")\n        return False\n    # Construct path to CodeSignTool.bat",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "package_universal",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def package_universal(contexts: List[BuildContext]) -> bool:\n    \"\"\"Windows doesn't support universal binaries like macOS\"\"\"\n    log_warning(\"Universal binaries are not supported on Windows\")\n    log_info(\"Consider creating separate packages for each architecture\")\n    return True\ndef get_target_cpu(build_output_dir: Path) -> str:\n    \"\"\"Get target CPU architecture from build configuration\"\"\"\n    args_gn_path = build_output_dir / \"args.gn\"\n    if not args_gn_path.exists():\n        return \"x64\"  # Default",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "get_target_cpu",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def get_target_cpu(build_output_dir: Path) -> str:\n    \"\"\"Get target CPU architecture from build configuration\"\"\"\n    args_gn_path = build_output_dir / \"args.gn\"\n    if not args_gn_path.exists():\n        return \"x64\"  # Default\n    try:\n        args_gn_content = args_gn_path.read_text(encoding=\"utf-8\")\n        for cpu in (\"x64\", \"x86\", \"arm64\"):\n            if f'target_cpu=\"{cpu}\"' in args_gn_content:\n                return cpu",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "create_files_cfg_package",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.package_windows",
+        "description": "packages.browseros.build.modules.package_windows",
+        "peekOfCode": "def create_files_cfg_package(ctx: BuildContext) -> bool:\n    \"\"\"Create package using Chromium's FILES.cfg approach (alternative method)\"\"\"\n    log_info(\"\\n📦 Creating FILES.cfg-based package...\")\n    build_output_dir = join_paths(ctx.chromium_src, ctx.out_dir)\n    files_cfg_path = (\n        ctx.chromium_src / \"chrome\" / \"tools\" / \"build\" / \"win\" / \"FILES.cfg\"\n    )\n    if not files_cfg_path.exists():\n        log_error(f\"FILES.cfg not found at: {files_cfg_path}\")\n        return False",
+        "detail": "packages.browseros.build.modules.package_windows",
+        "documentation": {}
+    },
+    {
+        "label": "apply_patches_with_dev_cli",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def apply_patches_with_dev_cli(\n    ctx: BuildContext, interactive: bool = False, commit_each: bool = False\n) -> bool:\n    \"\"\"Apply patches using the new dev CLI system\"\"\"\n    if not ctx.apply_patches:\n        log_info(\"\\n⏭️  Skipping patches\")\n        return True\n    log_info(\"\\n🩹 Applying patches using new dev CLI system...\")\n    # Check if git is available\n    if not shutil.which(\"git\"):",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "apply_patches",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def apply_patches(\n    ctx: BuildContext, interactive: bool = False, commit_each: bool = False\n) -> bool:\n    \"\"\"Apply Nxtscape patches\"\"\"\n    # Use new patching system if enabled\n    if NEW_PATCHING:\n        return apply_patches_with_dev_cli(ctx, interactive, commit_each)\n    # Otherwise, use the legacy patching system\n    if not ctx.apply_patches:\n        log_info(\"\\n⏭️  Skipping patches\")",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_platform",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def get_current_platform() -> str:\n    \"\"\"Get the current platform name for skip checking\"\"\"\n    if IS_WINDOWS:\n        return \"windows\"\n    elif IS_LINUX:\n        return \"linux\"\n    elif IS_MACOS:\n        return \"darwin\"\n    else:\n        return \"unknown\"",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "should_skip_patch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def should_skip_patch(skip_platforms: Optional[List[str]]) -> bool:\n    \"\"\"Check if a patch should be skipped on the current platform\"\"\"\n    if skip_platforms is None:\n        return False\n    current_platform = get_current_platform()\n    # Also check for common aliases\n    platform_aliases = {\n        \"darwin\": [\"darwin\", \"macos\", \"mac\", \"osx\"],\n        \"linux\": [\"linux\"],\n        \"windows\": [\"windows\", \"win32\", \"win\"],",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "parse_series_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def parse_series_file(patches_dir: Path) -> Iterator[Tuple[Path, Optional[List[str]]]]:\n    \"\"\"Parse the series file to get list of patches with skip directives\n    Returns tuples of (patch_path, skip_platforms) where skip_platforms\n    is None if no platforms should be skipped, or a list of platform names\n    \"\"\"\n    series_file = patches_dir / \"series\"\n    # Read series file\n    with series_file.open(\"r\") as f:\n        lines = f.read().splitlines()\n    patches = []",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "apply_single_patch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def apply_single_patch(\n    patch_path: Path,\n    tree_path: Path,\n    current_num: int,\n    total: int,\n    commit_each: bool = False,\n) -> bool:\n    \"\"\"Apply a single patch using git apply\"\"\"\n    # Use git apply which is cross-platform and handles patch format better\n    cmd = [",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "commit_patch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "def commit_patch(patch_path: Path, tree_path: Path) -> bool:\n    \"\"\"Create a git commit for the applied patch\"\"\"\n    try:\n        # Stage all changes\n        cmd_add = [\"git\", \"add\", \"-A\"]\n        result = subprocess.run(cmd_add, capture_output=True, text=True, cwd=tree_path)\n        if result.returncode != 0:\n            log_warning(f\"Failed to stage changes for patch {patch_path.name}\")\n            if result.stderr:\n                log_warning(f\"Error: {result.stderr}\")",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "NEW_PATCHING",
+        "kind": 5,
+        "importPath": "packages.browseros.build.modules.patches",
+        "description": "packages.browseros.build.modules.patches",
+        "peekOfCode": "NEW_PATCHING = True\ndef apply_patches_with_dev_cli(\n    ctx: BuildContext, interactive: bool = False, commit_each: bool = False\n) -> bool:\n    \"\"\"Apply patches using the new dev CLI system\"\"\"\n    if not ctx.apply_patches:\n        log_info(\"\\n⏭️  Skipping patches\")\n        return True\n    log_info(\"\\n🩹 Applying patches using new dev CLI system...\")\n    # Check if git is available",
+        "detail": "packages.browseros.build.modules.patches",
+        "documentation": {}
+    },
+    {
+        "label": "add_sparkle_keys_to_info_plist",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.postbuild",
+        "description": "packages.browseros.build.modules.postbuild",
+        "peekOfCode": "def add_sparkle_keys_to_info_plist(ctx: BuildContext):\n    \"\"\"Add Sparkle keys to the built app's Info.plist\"\"\"\n    app_path = ctx.get_app_path()\n    info_plist_path = app_path / \"Contents\" / \"Info.plist\"\n    if not info_plist_path.exists():\n        raise FileNotFoundError(f\"Info.plist not found: {info_plist_path}\")\n    log_info(f\"Adding keys to Info.plist: {info_plist_path}\")\n    # Info.plist.additions file is required\n    additions_file = (\n        ctx.root_dir / \"resources\" / \"entitlements\" / \"Info.plist.additions\"",
+        "detail": "packages.browseros.build.modules.postbuild",
+        "documentation": {}
+    },
+    {
+        "label": "run_postbuild",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.postbuild",
+        "description": "packages.browseros.build.modules.postbuild",
+        "peekOfCode": "def run_postbuild(ctx: BuildContext):\n    \"\"\"Run all post-build tasks\"\"\"\n    log_info(\"\\n🔧 Running post-build tasks...\")\n    # Add Sparkle keys - will raise exception if it fails\n    # add_sparkle_keys_to_info_plist(ctx)\n    # Add other post-build tasks here as needed\n    log_success(\"Post-build tasks completed\")",
+        "detail": "packages.browseros.build.modules.postbuild",
+        "documentation": {}
+    },
+    {
+        "label": "copy_resources",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.resources",
+        "description": "packages.browseros.build.modules.resources",
+        "peekOfCode": "def copy_resources(ctx: BuildContext, commit_each: bool = False) -> bool:\n    \"\"\"Copy AI extensions and icons based on YAML configuration\"\"\"\n    log_info(\"\\n📦 Copying resources...\")\n    # Load copy configuration\n    copy_config_path = ctx.get_copy_resources_config()\n    if not copy_config_path.exists():\n        log_error(f\"Copy configuration file not found: {copy_config_path}\")\n        raise FileNotFoundError(\n            f\"Copy configuration file not found: {copy_config_path}\"\n        )",
+        "detail": "packages.browseros.build.modules.resources",
+        "documentation": {}
+    },
+    {
+        "label": "commit_resource_copy",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.resources",
+        "description": "packages.browseros.build.modules.resources",
+        "peekOfCode": "def commit_resource_copy(\n    name: str, source: str, destination: str, chromium_src: Path\n) -> bool:\n    \"\"\"Create a git commit for the copied resource\"\"\"\n    try:\n        # Stage all changes\n        cmd_add = [\"git\", \"add\", \"-A\"]\n        result = subprocess.run(\n            cmd_add, capture_output=True, text=True, cwd=chromium_src\n        )",
+        "detail": "packages.browseros.build.modules.resources",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def run_command(\n    cmd: List[str],\n    cwd: Optional[Path] = None,\n    check: bool = True,\n) -> subprocess.CompletedProcess:\n    \"\"\"Run a command and handle errors\"\"\"\n    return utils_run_command(cmd, cwd=cwd, check=check)\ndef sign(ctx: BuildContext) -> bool:\n    \"\"\"Sign the application\"\"\"\n    if not ctx.sign_package:",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "sign",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def sign(ctx: BuildContext) -> bool:\n    \"\"\"Sign the application\"\"\"\n    if not ctx.sign_package:\n        log_info(\"\\n⏭️  Skipping signing\")\n        return True\n    log_info(\"\\n🔏 Signing application...\")\n    # When signing is enabled, also create and notarize DMG\n    if not sign_app(ctx, create_dmg=True):\n        log_error(\"Signing and notarization failed\")\n        raise RuntimeError(\"Signing and notarization failed\")",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "check_signing_environment",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def check_signing_environment() -> bool:\n    \"\"\"Check if all required environment variables are set for signing (early check)\"\"\"\n    # Only check on macOS\n    if not IS_MACOS:\n        return True\n    required_vars = [\n        \"MACOS_CERTIFICATE_NAME\",\n        \"PROD_MACOS_NOTARIZATION_APPLE_ID\",\n        \"PROD_MACOS_NOTARIZATION_TEAM_ID\",\n        \"PROD_MACOS_NOTARIZATION_PWD\",",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "check_environment",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def check_environment() -> Tuple[bool, Dict[str, str]]:\n    \"\"\"Check if all required environment variables are set\"\"\"\n    env_vars = {\n        \"certificate_name\": os.environ.get(\"MACOS_CERTIFICATE_NAME\", \"\"),\n        \"apple_id\": os.environ.get(\"PROD_MACOS_NOTARIZATION_APPLE_ID\", \"\"),\n        \"team_id\": os.environ.get(\"PROD_MACOS_NOTARIZATION_TEAM_ID\", \"\"),\n        \"notarization_pwd\": os.environ.get(\"PROD_MACOS_NOTARIZATION_PWD\", \"\"),\n    }\n    missing = []\n    for key, value in env_vars.items():",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "find_components_to_sign",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def find_components_to_sign(\n    app_path: Path, ctx: Optional[BuildContext] = None\n) -> Dict[str, List[Path]]:\n    \"\"\"Dynamically find all components that need signing\"\"\"\n    components = {\n        \"helpers\": [],\n        \"xpc_services\": [],\n        \"frameworks\": [],\n        \"dylibs\": [],\n        \"executables\": [],",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "get_identifier_for_component",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def get_identifier_for_component(\n    component_path: Path, base_identifier: str = \"com.browseros\"\n) -> str:\n    \"\"\"Generate identifier for a component based on its path and name\"\"\"\n    name = component_path.stem\n    # Special cases for known components\n    special_identifiers = {\n        \"Downloader\": \"org.sparkle-project.Downloader\",\n        \"Installer\": \"org.sparkle-project.Installer\",\n        \"Updater\": \"org.sparkle-project.Updater\",",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "get_signing_options",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def get_signing_options(component_path: Path) -> str:\n    \"\"\"Determine signing options based on component type\"\"\"\n    name = component_path.name\n    # For Sparkle XPC services and apps\n    if \"sparkle\" in str(component_path).lower():\n        return \"runtime\"\n    # For helper apps with specific requirements\n    if (\n        \"Helper (Renderer)\" in name\n        or \"Helper (GPU)\" in name",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "sign_component",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def sign_component(\n    component_path: Path,\n    certificate_name: str,\n    identifier: Optional[str] = None,\n    options: Optional[str] = None,\n    entitlements: Optional[Path] = None,\n) -> bool:\n    \"\"\"Sign a single component\"\"\"\n    cmd = [\"codesign\", \"--sign\", certificate_name, \"--force\", \"--timestamp\"]\n    if identifier:",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "sign_all_components",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def sign_all_components(\n    app_path: Path,\n    certificate_name: str,\n    root_dir: Path,\n    ctx: Optional[BuildContext] = None,\n) -> bool:\n    \"\"\"Sign all components in the correct order (bottom-up)\"\"\"\n    log_info(\"🔍 Discovering components to sign...\")\n    components = find_components_to_sign(app_path, ctx)\n    # Print summary",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "verify_signature",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def verify_signature(app_path: Path) -> bool:\n    \"\"\"Verify application signature\"\"\"\n    log_info(\"\\n🔍 Verifying application signature integrity...\")\n    result = run_command(\n        [\"codesign\", \"--verify\", \"--deep\", \"--strict\", \"--verbose=2\", str(app_path)],\n        check=False,\n    )\n    if result.returncode != 0:\n        log_error(\"Signature verification failed!\")\n        return False",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "notarize_app",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def notarize_app(\n    app_path: Path,\n    root_dir: Path,\n    env_vars: Dict[str, str],\n    ctx: Optional[BuildContext] = None,\n) -> bool:\n    \"\"\"Notarize the application\"\"\"\n    log_info(\"\\n📤 Preparing for notarization...\")\n    # Create zip for notarization\n    notarize_zip = (",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "sign_app",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def sign_app(ctx: BuildContext, create_dmg: bool = True) -> bool:\n    \"\"\"Main signing function that uses BuildContext from build.py\"\"\"\n    log_info(\"=\" * 70)\n    log_info(\"🚀 Starting signing process for BrowserOS...\")\n    log_info(\"=\" * 70)\n    # Error tracking similar to bash script\n    error_count = 0\n    error_messages = []\n    def track_error(msg: str):\n        nonlocal error_count",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "sign_universal",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.sign",
+        "description": "packages.browseros.build.modules.sign",
+        "peekOfCode": "def sign_universal(contexts: List[BuildContext]) -> bool:\n    \"\"\"Create universal binary and sign it\"\"\"\n    log_info(\"=\" * 70)\n    log_info(\"🔄 Creating and signing universal binary...\")\n    log_info(\"=\" * 70)\n    if len(contexts) < 2:\n        log_error(\"Universal build requires at least 2 architectures\")\n        return False\n    # Verify all app builds exist\n    app_paths = []",
+        "detail": "packages.browseros.build.modules.sign",
+        "documentation": {}
+    },
+    {
+        "label": "get_slack_webhook_url",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def get_slack_webhook_url() -> Optional[str]:\n    \"\"\"Get Slack webhook URL from environment variable\"\"\"\n    return os.environ.get(\"SLACK_WEBHOOK_URL\")\ndef get_os_info() -> tuple[str, str]:\n    \"\"\"Get OS emoji and name for Slack notifications\"\"\"\n    platform = get_platform()\n    if platform == \"macos\":\n        return \"🍎\", \"macOS\"\n    elif platform == \"windows\":\n        return \"🪟\", \"Windows\"",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "get_os_info",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def get_os_info() -> tuple[str, str]:\n    \"\"\"Get OS emoji and name for Slack notifications\"\"\"\n    platform = get_platform()\n    if platform == \"macos\":\n        return \"🍎\", \"macOS\"\n    elif platform == \"windows\":\n        return \"🪟\", \"Windows\"\n    elif platform == \"linux\":\n        return \"🐧\", \"Linux\"\n    else:",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "send_slack_notification",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def send_slack_notification(message: str, success: bool = True) -> bool:\n    \"\"\"Send a notification to Slack if webhook URL is configured\"\"\"\n    webhook_url = get_slack_webhook_url()\n    if not webhook_url:\n        # Silently skip if no webhook configured\n        return True\n    # Choose emoji and color based on success status\n    emoji = \"✅\" if success else \"❌\"\n    color = \"good\" if success else \"danger\"\n    # Get OS information",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_started",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def notify_build_started(build_type: str, arch: str) -> bool:\n    \"\"\"Notify that build has started\"\"\"\n    _, os_name = get_os_info()\n    message = f\"Build started on {os_name} - {build_type} build for {arch}\"\n    return send_slack_notification(message, success=True)\ndef notify_build_step(step_name: str) -> bool:\n    \"\"\"Notify about a build step\"\"\"\n    message = f\"Running step: {step_name}\"\n    return send_slack_notification(message, success=True)\ndef notify_build_success(",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_step",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def notify_build_step(step_name: str) -> bool:\n    \"\"\"Notify about a build step\"\"\"\n    message = f\"Running step: {step_name}\"\n    return send_slack_notification(message, success=True)\ndef notify_build_success(\n    duration_mins: int, duration_secs: int, gcs_uris: Optional[List[str]] = None\n) -> bool:\n    \"\"\"Notify that build completed successfully\"\"\"\n    message = f\"Build completed successfully in {duration_mins}m {duration_secs}s\"\n    # Add GCS URIs to message if provided",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_success",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def notify_build_success(\n    duration_mins: int, duration_secs: int, gcs_uris: Optional[List[str]] = None\n) -> bool:\n    \"\"\"Notify that build completed successfully\"\"\"\n    message = f\"Build completed successfully in {duration_mins}m {duration_secs}s\"\n    # Add GCS URIs to message if provided\n    if gcs_uris:\n        message += f\"\\n\\nUploaded artifacts ({len(gcs_uris)} files):\"\n        for uri in gcs_uris:\n            # Convert gs:// URI to public URL for easier access",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_failure",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def notify_build_failure(error_message: str) -> bool:\n    \"\"\"Notify that build failed\"\"\"\n    message = f\"Build failed: {error_message}\"\n    return send_slack_notification(message, success=False)\ndef notify_build_interrupted() -> bool:\n    \"\"\"Notify that build was interrupted\"\"\"\n    message = \"Build was interrupted by user\"\n    return send_slack_notification(message, success=False)\ndef notify_gcs_upload(architecture: str, gcs_uris: List[str]) -> bool:\n    \"\"\"Notify about GCS upload for a specific architecture\"\"\"",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_build_interrupted",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def notify_build_interrupted() -> bool:\n    \"\"\"Notify that build was interrupted\"\"\"\n    message = \"Build was interrupted by user\"\n    return send_slack_notification(message, success=False)\ndef notify_gcs_upload(architecture: str, gcs_uris: List[str]) -> bool:\n    \"\"\"Notify about GCS upload for a specific architecture\"\"\"\n    if not gcs_uris:\n        return True\n    message = f\"[{architecture}] Uploaded {len(gcs_uris)} artifact(s) to GCS\"\n    # Add URIs to message",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "notify_gcs_upload",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.slack",
+        "description": "packages.browseros.build.modules.slack",
+        "peekOfCode": "def notify_gcs_upload(architecture: str, gcs_uris: List[str]) -> bool:\n    \"\"\"Notify about GCS upload for a specific architecture\"\"\"\n    if not gcs_uris:\n        return True\n    message = f\"[{architecture}] Uploaded {len(gcs_uris)} artifact(s) to GCS\"\n    # Add URIs to message\n    for uri in gcs_uris:\n        # Convert gs:// URI to public URL\n        if uri.startswith(\"gs://\"):\n            public_url = uri.replace(\"gs://\", \"https://storage.googleapis.com/\")",
+        "detail": "packages.browseros.build.modules.slack",
+        "documentation": {}
+    },
+    {
+        "label": "apply_string_replacements",
+        "kind": 2,
+        "importPath": "packages.browseros.build.modules.string_replaces",
+        "description": "packages.browseros.build.modules.string_replaces",
+        "peekOfCode": "def apply_string_replacements(ctx: BuildContext) -> bool:\n    \"\"\"Apply string replacements to specified files\"\"\"\n    log_info(\"\\n🔤 Applying string replacements...\")\n    success = True\n    for file_path in target_files:\n        full_path = ctx.chromium_src / file_path\n        if not full_path.exists():\n            log_warning(f\"  ⚠️  File not found: {file_path}\")\n            continue\n        log_info(f\"  • Processing: {file_path}\")",
+        "detail": "packages.browseros.build.modules.string_replaces",
+        "documentation": {}
+    },
+    {
+        "label": "branding_replacements",
+        "kind": 5,
+        "importPath": "packages.browseros.build.modules.string_replaces",
+        "description": "packages.browseros.build.modules.string_replaces",
+        "peekOfCode": "branding_replacements = [\n    (\n        r\"The Chromium Authors. All rights reserved.\",\n        r\"The BrowserOS Authors. All rights reserved.\",\n    ),\n    (\n        r\"Google LLC. All rights reserved.\",\n        r\"The BrowserOS Authors. All rights reserved.\",\n    ),\n    (r\"The Chromium Authors\", r\"BrowserOS Software Inc\"),",
+        "detail": "packages.browseros.build.modules.string_replaces",
+        "documentation": {}
+    },
+    {
+        "label": "target_files",
+        "kind": 5,
+        "importPath": "packages.browseros.build.modules.string_replaces",
+        "description": "packages.browseros.build.modules.string_replaces",
+        "peekOfCode": "target_files = [\n    \"chrome/app/chromium_strings.grd\",\n    \"chrome/app/settings_chromium_strings.grdp\",\n]\ndef apply_string_replacements(ctx: BuildContext) -> bool:\n    \"\"\"Apply string replacements to specified files\"\"\"\n    log_info(\"\\n🔤 Applying string replacements...\")\n    success = True\n    for file_path in target_files:\n        full_path = ctx.chromium_src / file_path",
+        "detail": "packages.browseros.build.modules.string_replaces",
+        "documentation": {}
+    },
+    {
+        "label": "load_env_file",
+        "kind": 2,
+        "importPath": "packages.browseros.build.build",
+        "description": "packages.browseros.build.build",
+        "peekOfCode": "def load_env_file():\n    env_file = Path(__file__).parent.parent / \".env\"\n    if env_file.exists():\n        with open(env_file, \"r\") as f:\n            for line in f:\n                line = line.strip()\n                if line and not line.startswith(\"#\"):\n                    if \"=\" in line:\n                        key, value = line.split(\"=\", 1)\n                        os.environ[key.strip()] = value.strip()",
+        "detail": "packages.browseros.build.build",
+        "documentation": {}
+    },
+    {
+        "label": "build_main",
+        "kind": 2,
+        "importPath": "packages.browseros.build.build",
+        "description": "packages.browseros.build.build",
+        "peekOfCode": "def build_main(\n    config_file: Optional[Path] = None,\n    clean_flag: bool = False,\n    git_setup_flag: bool = False,\n    apply_patches_flag: bool = False,\n    sign_flag: bool = False,\n    package_flag: bool = False,\n    build_flag: bool = False,\n    arch: str = \"\",  # Will use platform default if not specified\n    build_type: str = \"debug\",",
+        "detail": "packages.browseros.build.build",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "packages.browseros.build.build",
+        "description": "packages.browseros.build.build",
+        "peekOfCode": "def main(\n    config,\n    clean,\n    git_setup,\n    apply_patches,\n    sign,\n    arch,\n    build_type,\n    package,\n    build,",
+        "detail": "packages.browseros.build.build",
+        "documentation": {}
+    },
+    {
+        "label": "BuildContext",
+        "kind": 6,
+        "importPath": "packages.browseros.build.context",
+        "description": "packages.browseros.build.context",
+        "peekOfCode": "class BuildContext:\n    \"\"\"Simple dataclass to hold all build state\"\"\"\n    root_dir: Path\n    chromium_src: Path = Path()\n    out_dir: str = \"out/Default\"\n    architecture: str = \"\"  # Will be set in __post_init__\n    build_type: str = \"debug\"\n    apply_patches: bool = False\n    sign_package: bool = False\n    package: bool = False",
+        "detail": "packages.browseros.build.context",
+        "documentation": {}
+    },
+    {
+        "label": "DevCliConfig",
+        "kind": 6,
+        "importPath": "packages.browseros.build.dev",
+        "description": "packages.browseros.build.dev",
+        "peekOfCode": "class DevCliConfig:\n    \"\"\"Configuration for Dev CLI from various sources\"\"\"\n    chromium_src: Optional[Path] = None\n    auto_commit: bool = False\n    interactive: bool = True\n    @classmethod\n    def load(cls, cli_chromium_src: Optional[Path] = None) -> \"DevCliConfig\":\n        \"\"\"Load configuration from various sources with precedence:\n        1. CLI arguments (highest priority)\n        2. Environment variables",
+        "detail": "packages.browseros.build.dev",
+        "documentation": {}
+    },
+    {
+        "label": "create_build_context",
+        "kind": 2,
+        "importPath": "packages.browseros.build.dev",
+        "description": "packages.browseros.build.dev",
+        "peekOfCode": "def create_build_context(chromium_src: Optional[Path] = None) -> Optional[BuildContext]:\n    \"\"\"Create BuildContext with dev CLI extensions\"\"\"\n    config = DevCliConfig.load(chromium_src)\n    if not config.chromium_src:\n        log_error(\"Chromium source directory not specified\")\n        log_info(\"Use --chromium-src or set DEV_CLI_CHROMIUM_SRC environment variable\")\n        return None\n    if not config.chromium_src.exists():\n        log_error(f\"Chromium source directory does not exist: {config.chromium_src}\")\n        return None",
+        "detail": "packages.browseros.build.dev",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "packages.browseros.build.dev",
+        "description": "packages.browseros.build.dev",
+        "peekOfCode": "def cli(ctx, chromium_src, verbose, quiet):\n    \"\"\"Dev CLI - Chromium patch management tool\n    This tool provides git-like commands for managing patches against Chromium:\n    \\b\n    Extract patches from commits:\n      dev extract commit HEAD\n      dev extract range HEAD~5 HEAD\n    \\b\n    Apply patches:\n      dev apply all",
+        "detail": "packages.browseros.build.dev",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "packages.browseros.build.dev",
+        "description": "packages.browseros.build.dev",
+        "peekOfCode": "def main():\n    \"\"\"Main entry point\"\"\"\n    try:\n        cli()\n    except KeyboardInterrupt:\n        log_warning(\"\\nInterrupted by user\")\n        sys.exit(1)\n    except Exception as e:\n        if \"--verbose\" in sys.argv or \"-v\" in sys.argv:\n            import traceback",
+        "detail": "packages.browseros.build.dev",
+        "documentation": {}
+    },
+    {
+        "label": "CantMergeException",
+        "kind": 6,
+        "importPath": "packages.browseros.build.universalizer_patched",
+        "description": "packages.browseros.build.universalizer_patched",
+        "peekOfCode": "class CantMergeException(Exception):\n    \"\"\"Raised when differences exist between input files such that they cannot\n    be merged successfully.\n    \"\"\"\n    pass\ndef _merge_info_plists(input_paths, output_path):\n    \"\"\"Merges multiple macOS Info.plist files.\n    Args:\n        input_plists: A list of paths containing Info.plist files to be merged.\n        output_plist: The path of the merged Info.plist to create.",
+        "detail": "packages.browseros.build.universalizer_patched",
+        "documentation": {}
+    },
+    {
+        "label": "universalize",
+        "kind": 2,
+        "importPath": "packages.browseros.build.universalizer_patched",
+        "description": "packages.browseros.build.universalizer_patched",
+        "peekOfCode": "def universalize(input_paths, output_path):\n    \"\"\"Merges multiple trees into a \"universal\" tree.\n    Args:\n        input_paths: The input directory trees to be merged.\n        output_path: The merged tree to produce.\n    input_paths are expected to be parallel directory trees. Each directory\n    entry at a given subpath in the input_paths, if present, must be identical\n    to all others when present, with these exceptions:\n     - Mach-O files that are not identical are merged using lipo.\n     - Info.plist files that are not identical are merged by _merge_info_plists.",
+        "detail": "packages.browseros.build.universalizer_patched",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "packages.browseros.build.universalizer_patched",
+        "description": "packages.browseros.build.universalizer_patched",
+        "peekOfCode": "def main(args):\n    parser = argparse.ArgumentParser(\n        description=\"Merge multiple single-architecture directory trees into a \"\n        \"single universal tree.\"\n    )\n    parser.add_argument(\n        \"inputs\",\n        nargs=\"+\",\n        metavar=\"input\",\n        help=\"An input directory tree to be merged. At least two inputs must \"",
+        "detail": "packages.browseros.build.universalizer_patched",
+        "documentation": {}
+    },
+    {
+        "label": "log_info",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def log_info(message: str):\n    \"\"\"Print info message\"\"\"\n    print(_sanitize_for_windows(message))\n    _log_to_file(f\"INFO: {message}\")\ndef log_warning(message: str):\n    \"\"\"Print warning message\"\"\"\n    if sys.platform == \"win32\":\n        print(f\"[WARN] {_sanitize_for_windows(message)}\")\n    else:\n        print(f\"⚠️ {message}\")",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_warning",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def log_warning(message: str):\n    \"\"\"Print warning message\"\"\"\n    if sys.platform == \"win32\":\n        print(f\"[WARN] {_sanitize_for_windows(message)}\")\n    else:\n        print(f\"⚠️ {message}\")\n    _log_to_file(f\"WARNING: {message}\")\ndef log_error(message: str):\n    \"\"\"Print error message\"\"\"\n    if sys.platform == \"win32\":",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_error",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def log_error(message: str):\n    \"\"\"Print error message\"\"\"\n    if sys.platform == \"win32\":\n        print(f\"[ERROR] {_sanitize_for_windows(message)}\")\n    else:\n        print(f\"❌ {message}\")\n    _log_to_file(f\"ERROR: {message}\")\ndef log_success(message: str):\n    \"\"\"Print success message\"\"\"\n    if sys.platform == \"win32\":",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_success",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def log_success(message: str):\n    \"\"\"Print success message\"\"\"\n    if sys.platform == \"win32\":\n        print(f\"[SUCCESS] {_sanitize_for_windows(message)}\")\n    else:\n        print(f\"✅ {message}\")\n    _log_to_file(f\"SUCCESS: {message}\")\ndef run_command(\n    cmd: List[str],\n    cwd: Optional[Path] = None,",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def run_command(\n    cmd: List[str],\n    cwd: Optional[Path] = None,\n    env: Optional[Dict] = None,\n    check: bool = True,\n) -> subprocess.CompletedProcess:\n    \"\"\"Run a command with real-time streaming output and full capture\"\"\"\n    cmd_str = \" \".join(cmd)\n    _log_to_file(f\"RUN_COMMAND: 🔧 Running: {cmd_str}\")\n    log_info(f\"🔧 Running: {cmd_str}\")",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def load_config(config_path: Path) -> Dict:\n    \"\"\"Load configuration from YAML file\"\"\"\n    if not config_path.exists():\n        log_error(f\"Config file not found: {config_path}\")\n        raise FileNotFoundError(f\"Config file not found: {config_path}\")\n    with open(config_path, \"r\") as f:\n        config = yaml.safe_load(f)\n    return config\n# Platform-specific utilities\ndef get_platform() -> str:",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def get_platform() -> str:\n    \"\"\"Get platform name in a consistent format\"\"\"\n    if IS_WINDOWS:\n        return \"windows\"\n    elif IS_MACOS:\n        return \"macos\"\n    elif IS_LINUX:\n        return \"linux\"\n    return \"unknown\"\ndef get_platform_arch() -> str:",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_platform_arch",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def get_platform_arch() -> str:\n    \"\"\"Get default architecture for current platform\"\"\"\n    if IS_WINDOWS:\n        return \"x64\"\n    elif IS_MACOS:\n        # macOS can be arm64 or x64\n        import platform\n        return \"arm64\" if platform.machine() == \"arm64\" else \"x64\"\n    elif IS_LINUX:\n        # Linux can be x64 or arm64",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_executable_extension",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def get_executable_extension() -> str:\n    \"\"\"Get executable file extension for current platform\"\"\"\n    return \".exe\" if IS_WINDOWS else \"\"\ndef get_app_extension() -> str:\n    \"\"\"Get application bundle extension for current platform\"\"\"\n    if IS_MACOS:\n        return \".app\"\n    elif IS_WINDOWS:\n        return \".exe\"\n    return \"\"",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_app_extension",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def get_app_extension() -> str:\n    \"\"\"Get application bundle extension for current platform\"\"\"\n    if IS_MACOS:\n        return \".app\"\n    elif IS_WINDOWS:\n        return \".exe\"\n    return \"\"\ndef normalize_path(path: Union[str, Path]) -> Path:\n    \"\"\"Normalize path for current platform\"\"\"\n    path = Path(path)",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_path",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def normalize_path(path: Union[str, Path]) -> Path:\n    \"\"\"Normalize path for current platform\"\"\"\n    path = Path(path)\n    if IS_WINDOWS:\n        # Convert forward slashes to backslashes on Windows\n        return Path(str(path).replace(\"/\", \"\\\\\"))\n    return path\ndef join_paths(*paths: Union[str, Path]) -> Path:\n    \"\"\"Join paths in a platform-aware way\"\"\"\n    if not paths:",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "join_paths",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def join_paths(*paths: Union[str, Path]) -> Path:\n    \"\"\"Join paths in a platform-aware way\"\"\"\n    if not paths:\n        return Path()\n    result = Path(paths[0])\n    for p in paths[1:]:\n        result = result / p\n    return normalize_path(result)\ndef safe_rmtree(path: Union[str, Path]) -> None:\n    \"\"\"Safely remove directory tree, handling Windows symlinks and junction points\"\"\"",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "safe_rmtree",
+        "kind": 2,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "def safe_rmtree(path: Union[str, Path]) -> None:\n    \"\"\"Safely remove directory tree, handling Windows symlinks and junction points\"\"\"\n    path = Path(path)\n    if not path.exists():\n        return\n    if IS_WINDOWS:\n        # On Windows, use rmdir for junctions and symlinks\n        import stat\n        def handle_remove_readonly(func, path, exc):\n            \"\"\"Error handler for Windows readonly files\"\"\"",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_WINDOWS",
+        "kind": 5,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "IS_WINDOWS = sys.platform == \"win32\"\nIS_MACOS = sys.platform == \"darwin\"\nIS_LINUX = sys.platform.startswith(\"linux\")\n# Global log file handle\n_log_file = None\ndef _ensure_log_file():\n    \"\"\"Ensure log file is created with timestamp\"\"\"\n    global _log_file\n    if _log_file is None:\n        # Create logs directory if it doesn't exist",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_MACOS",
+        "kind": 5,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "IS_MACOS = sys.platform == \"darwin\"\nIS_LINUX = sys.platform.startswith(\"linux\")\n# Global log file handle\n_log_file = None\ndef _ensure_log_file():\n    \"\"\"Ensure log file is created with timestamp\"\"\"\n    global _log_file\n    if _log_file is None:\n        # Create logs directory if it doesn't exist\n        log_dir = Path(__file__).parent.parent / \"logs\"",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "IS_LINUX",
+        "kind": 5,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "IS_LINUX = sys.platform.startswith(\"linux\")\n# Global log file handle\n_log_file = None\ndef _ensure_log_file():\n    \"\"\"Ensure log file is created with timestamp\"\"\"\n    global _log_file\n    if _log_file is None:\n        # Create logs directory if it doesn't exist\n        log_dir = Path(__file__).parent.parent / \"logs\"\n        log_dir.mkdir(exist_ok=True)",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    },
+    {
+        "label": "_log_file",
+        "kind": 5,
+        "importPath": "packages.browseros.build.utils",
+        "description": "packages.browseros.build.utils",
+        "peekOfCode": "_log_file = None\ndef _ensure_log_file():\n    \"\"\"Ensure log file is created with timestamp\"\"\"\n    global _log_file\n    if _log_file is None:\n        # Create logs directory if it doesn't exist\n        log_dir = Path(__file__).parent.parent / \"logs\"\n        log_dir.mkdir(exist_ok=True)\n        # Create log file with timestamp\n        timestamp = datetime.now().strftime(\"%Y-%m-%d_%H-%M-%S\")",
+        "detail": "packages.browseros.build.utils",
+        "documentation": {}
+    }
+]

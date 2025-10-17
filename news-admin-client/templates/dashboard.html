@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MCP Admin Dashboard</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>MCP Admin Dashboard</h1>
+    <div id="agents">
+        <h2>Agents</h2>
+        <ul id="agent-list"></ul>
+    </div>
+    <div id="metrics">
+        <h2>System Metrics</h2>
+        <pre id="metrics-data"></pre>
+    </div>
+    <div id="controls">
+        <h2>Controls</h2>
+        <button onclick="triggerAgent('news-research-agent')">Trigger News Research Agent</button>
+        <button onclick="triggerAgent('news-analyzer-agent')">Trigger News Analyzer Agent</button>
+        <button onclick="triggerAgent('news-database-server')">Trigger News Database Server</button>
+    </div>
+    <div id="issues">
+        <h2>Issues</h2>
+        <ul id="issue-list"></ul>
+    </div>
+    <script>
+        async function loadAgents() {
+            const res = await fetch('/api/agents');
+            const agents = await res.json();
+            const list = document.getElementById('agent-list');
+            list.innerHTML = '';
+            agents.forEach(agent => {
+                const li = document.createElement('li');
+                li.textContent = `${agent.name}: ${agent.status}`;
+                list.appendChild(li);
+            });
+        }
+        async function loadMetrics() {
+            const res = await fetch('/api/metrics');
+            const metrics = await res.json();
+            document.getElementById('metrics-data').textContent = JSON.stringify(metrics, null, 2);
+        }
+        async function loadIssues() {
+            const res = await fetch('/api/issues');
+            const issues = await res.json();
+            const list = document.getElementById('issue-list');
+            list.innerHTML = '';
+            issues.forEach(issue => {
+                const li = document.createElement('li');
+                li.textContent = `${issue.id}: ${issue.description}`;
+                const btn = document.createElement('button');
+                btn.textContent = 'Resolve';
+                btn.onclick = () => resolveIssue(issue.id);
+                li.appendChild(btn);
+                list.appendChild(li);
+            });
+        }
+        async function triggerAgent(agent) {
+            await fetch(`/api/trigger/${agent}`, {method: 'POST'});
+            alert(`Triggered ${agent}`);
+        }
+        async function resolveIssue(issueId) {
+            await fetch(`/api/resolve/${issueId}`, {method: 'POST'});
+            alert(`Resolved issue ${issueId}`);
+            loadIssues();
+        }
+        function refreshAll() {
+            loadAgents();
+            loadMetrics();
+            loadIssues();
+        }
+        setInterval(refreshAll, 5000);
+        refreshAll();
+    </script>
+</body>
+</html>

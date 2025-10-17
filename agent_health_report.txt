@@ -1,0 +1,87 @@
+\n===============================
+Starting news-analyzer-agent...
+Checking health at http://localhost:8000/health...
+news-analyzer-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-research-agent...
+/home/adra/miniconda3/envs/news-research-agent-env/lib/python3.12/site-packages/crawl4ai/models.py:129: PydanticDeprecatedSince20: Support for class-based `config` is deprecated, use ConfigDict instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  class CrawlResult(BaseModel):
+/home/adra/miniconda3/envs/news-research-agent-env/lib/python3.12/site-packages/crawl4ai/models.py:310: PydanticDeprecatedSince20: Support for class-based `config` is deprecated, use ConfigDict instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.12/migration/
+  class AsyncCrawlResponse(BaseModel):
+
+
+╭────────────────────────────────────────────────────────────────────────────╮
+│                                                                            │
+│        _ __ ___  _____           __  __  _____________    ____    ____     │
+│       _ __ ___ .'____/___ ______/ /_/  |/  / ____/ __ \  |___ \  / __ \    │
+│      _ __ ___ / /_  / __ `/ ___/ __/ /|_/ / /   / /_/ /  ___/ / / / / /    │
+│     _ __ ___ / __/ / /_/ (__  ) /_/ /  / / /___/ ____/  /  __/_/ /_/ /     │
+│    _ __ ___ /_/    \____/____/\__/_/  /_/\____/_/      /_____(*)____/      │
+│                                                                            │
+│                                                                            │
+│                                FastMCP  2.0                                │
+│                                                                            │
+│                                                                            │
+│                 🖥️  Server name:     news-research-agent                    │
+│                 📦 Transport:       STDIO                                  │
+│                                                                            │
+│                 🏎️  FastMCP version: 2.12.4                                 │
+│                 🤝 MCP SDK version: 1.17.0                                 │
+│                                                                            │
+│                 📚 Docs:            https://gofastmcp.com                  │
+│                 🚀 Deploy:          https://fastmcp.cloud                  │
+│                                                                            │
+╰────────────────────────────────────────────────────────────────────────────╯
+
+
+[10/13/25 11:56:45] INFO     Starting MCP server                  server.py:1502
+                             'news-research-agent' with transport               
+                             'stdio'                                            
+
+Checking health at http://localhost:8000/health...
+news-research-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-database-server...
+Checking health at http://localhost:8000/health...
+news-database-server is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-cluster-agent...
+Checking health at http://localhost:8000/health...
+news-cluster-agent is healthy!
+\n===============================
+Starting news-cleaner-agent...
+Checking health at http://localhost:8000/health...
+news-cleaner-agent is healthy!
+\n===============================
+Starting news-factcheck-agent...
+Checking health at http://localhost:8000/health...
+news-factcheck-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-editor-agent...
+Checking health at http://localhost:8000/health...
+news-editor-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-memory-agent...
+Checking health at http://localhost:8000/health...
+news-memory-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-orchestrator-agent...
+Checking health at http://localhost:8014/health...
+news-orchestrator-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-training-agent...
+Checking health at http://localhost:8000/health...
+news-training-agent is healthy!
+(Info) Agent process already exited.
+\n===============================
+Starting news-admin-client...
+Checking health at http://localhost:8080/health...
+news-admin-client is healthy!
+\nAll agents checked.

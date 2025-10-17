@@ -1,0 +1,5 @@
+transformers
+torch
+requests
+fastmcp==2.12.0
+

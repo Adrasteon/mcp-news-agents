@@ -1,0 +1,7 @@
+playwright
+ollama
+fastmcp
+pydantic
+httpx
+asyncio
+psutil

@@ -1,0 +1,13 @@
+name: news-memory-agent-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - psutil
+  - pynvml
+  - prometheus_client
+  - uv
+  - pip
+  - pip:
+    - fastmcp==2.12.0

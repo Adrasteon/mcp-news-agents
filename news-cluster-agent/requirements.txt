@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+psycopg2-binary
+transformers
+torch
+prometheus_client
+fastmcp==2.12.0

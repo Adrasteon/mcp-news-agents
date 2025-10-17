@@ -1,0 +1,23 @@
+source_id,label,url,status,notes,reviewer,reviewed_at_utc
+1,Reuters,https://www.reuters.com,cookie,,,2025-10-14T16:17:00
+2,Associated Press (AP),https://apnews.com,cookie,,,2025-10-14T16:18:49
+3,Agence France-Presse (AFP),https://www.afp.com/en,paywall,,,2025-10-14T16:19:50
+4,BBC World News,https://www.bbc.com/news,ok;cookie;modal,,,2025-10-14T17:09:20
+5,Al Jazeera English,https://www.aljazeera.com,ok;modal,,,2025-10-14T17:10:35
+6,CNN International,https://edition.cnn.com,ok;cookie;modal,,,2025-10-14T17:11:12
+7,France 24,https://www.france24.com/en,ok;cookie,,,2025-10-14T17:12:01
+8,Deutsche Welle (DW),https://www.dw.com/en,ok;cookie,,,2025-10-14T17:14:09
+9,Euronews,https://www.euronews.com,ok;cookie;modal,,,2025-10-14T17:19:27
+10,VICE News,https://www.vice.com/en/section/news,ok;cookie;modal,,,2025-10-14T17:21:07
+11,The New York Times,https://www.nytimes.com,ok;paywall;cookie,,,2025-10-14T17:21:53
+12,The Wall Street Journal,https://www.wsj.com,ok;paywall;cookie,,,2025-10-14T17:23:17
+13,The Washington Post,https://www.washingtonpost.com,ok;paywall;cookie,,,2025-10-14T17:24:17
+14,Los Angeles Times,https://www.latimes.com,ok,,,2025-10-14T17:24:51
+16,USA Today,https://www.usatoday.com,ok;cookie,,,2025-10-14T17:26:09
+17,NPR (National Public Radio),https://www.npr.org,ok,,,2025-10-14T17:27:12
+18,PBS NewsHour,https://www.pbs.org/newshour,ok;cookie,,,2025-10-14T17:27:45
+19,The Atlantic,https://www.theatlantic.com,ok;paywall;cookie,,,2025-10-14T17:28:29
+20,The New Yorker,https://www.newyorker.com,ok;paywall;cookie,,,2025-10-14T17:29:28
+21,TIME Magazine,https://time.com,ok;cookie;modal,,,2025-10-14T17:31:23
+22,Foreign Policy,https://foreignpolicy.com,ok;paywall;cookie;modal,,,2025-10-14T17:33:11
+23,Bloomberg News,https://www.bloomberg.com,ok;paywall;cookie;modal,,,2025-10-14T17:34:03

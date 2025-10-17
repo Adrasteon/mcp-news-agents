@@ -1,0 +1,4 @@
+spacy
+textblob
+fastmcp==2.12.0
+
