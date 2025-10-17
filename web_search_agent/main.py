@@ -145,7 +145,7 @@ def check_system_resources():
 
 # Initialize FastMCP app
 app = FastMCP(
-    name="web-search-agent",
+    name="web_search_agent",
     version="1.0.0"
 )
 

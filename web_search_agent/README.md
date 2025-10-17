@@ -38,7 +38,7 @@ A self-contained agent that uses BrowserOS browser automation and a local LLM to
 
    ```bash
    conda env create -f environment.yml
-   conda activate web-search-agent-env
+   conda activate web_search_agent-env
    ```
 
 4. Install Playwright browsers:
@@ -106,17 +106,17 @@ Example prompt: "What are the latest developments in AI safety?"
 
 ### What changed (summary)
 
-- New client wrapper: `web-search-agent/browseros_client.py` — supports direct MCP and optional Klavis adapter. Default is direct-MCP (self-hosted).
-- Executor refactor: `web-search-agent/executor.py` — `validate_plan()` and `execute_plan()` (step-by-step execution).
+- New client wrapper: `web_search_agent/browseros_client.py` — supports direct MCP and optional Klavis adapter. Default is direct-MCP (self-hosted).
+- Executor refactor: `web_search_agent/executor.py` — `validate_plan()` and `execute_plan()` (step-by-step execution).
 - Robust execution: per-action retries, exponential backoff, artifact (screenshot) capture on failure, stop-on-error behavior.
-- Tests: unit tests and an integration test with a lightweight mock MCP server under `web-search-agent/tests/`.
+- Tests: unit tests and an integration test with a lightweight mock MCP server under `web_search_agent/tests/`.
 
 ### Files added/modified
 
-- `web-search-agent/browseros_client.py` — BrowserOS MCP client (direct MCP default, Klavis optional).
-- `web-search-agent/executor.py` — Plan validation and executor helpers.
-- `web-search-agent/main.py` — Uses LLM to request JSON action plans and calls the executor; falls back to Playwright/CDP search flow on errors.
-- `web-search-agent/tests/` — unit tests and `mock_mcp_server.py` for integration testing.
+- `web_search_agent/browseros_client.py` — BrowserOS MCP client (direct MCP default, Klavis optional).
+- `web_search_agent/executor.py` — Plan validation and executor helpers.
+- `web_search_agent/main.py` — Uses LLM to request JSON action plans and calls the executor; falls back to Playwright/CDP search flow on errors.
+- `web_search_agent/tests/` — unit tests and `mock_mcp_server.py` for integration testing.
 
 ### Executor API & behavior
 
@@ -179,10 +179,10 @@ Install pytest and run the tests (mock MCP server will be used by integration te
 ```bash
 conda activate news-research-agent-env
 pip install -U pytest
-pytest -q web-search-agent/tests
+pytest -q web_search_agent/tests
 ```
 
-Notes:
+Note:
 
 - The integration tests spin up a lightweight mock MCP HTTP server on an ephemeral port and exercise the direct-MCP client behavior. They don't require real BrowserOS or Klavis.
 
@@ -222,7 +222,7 @@ jobs:
                python-version: '3.11'
          - run: python -m pip install -U pip
          - run: pip install pytest
-         - run: pytest -q web-search-agent/tests
+         - run: pytest -q web_search_agent/tests
 ```
 
 

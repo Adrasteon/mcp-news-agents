@@ -20,7 +20,7 @@ import ollama
 async def test_web_search_agent(prompt: str):
     """Test the web search agent logic directly."""
 
-    print(f"Testing web-search-agent with prompt: '{prompt}'")
+    print(f"Testing web_search_agent with prompt: '{prompt}'")
 
     try:
         # Step 1: Use local LLM to generate search query from prompt
