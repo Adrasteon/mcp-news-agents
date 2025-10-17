@@ -1,0 +1,14 @@
+name: news-admin-client-env
+channels:
+  - defaults
+  - conda-forge
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - uv
+  - rich
+  - requests
+  - aiohttp
+  - prompt_toolkit
+  - prometheus_client

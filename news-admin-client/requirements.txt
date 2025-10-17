@@ -1,0 +1,6 @@
+rich
+requests
+aiohttp
+prompt_toolkit
+prometheus_client
+fastmcp==2.12.0

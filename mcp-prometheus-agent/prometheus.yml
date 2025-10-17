@@ -1,0 +1,18 @@
+global:
+  scrape_interval: 5s
+
+scrape_configs:
+  - job_name: 'mcp-agents'
+    static_configs:
+      - targets:
+          - 'localhost:11700'  # news-research-agent
+          - 'localhost:11701'  # news-analyzer-agent
+          - 'localhost:11702'  # news-database-server
+          - 'localhost:11703'  # news-cluster-agent
+          - 'localhost:11704'  # news-cleaner-agent
+          - 'localhost:11705'  # news-training-agent
+          - 'localhost:11706'  # news-editor-agent
+          - 'localhost:11707'  # news-factcheck-agent
+          - 'localhost:11708'  # news-memory-agent
+          - 'localhost:11709'  # news-orchestrator-agent
+          - 'localhost:11710'  # news-admin-client

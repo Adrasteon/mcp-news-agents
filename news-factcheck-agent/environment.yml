@@ -1,0 +1,13 @@
+name: news-factcheck-agent-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - transformers
+  - torch
+  - requests
+  - uv
+  - pip
+  - pip:
+    - fastmcp==2.12.0

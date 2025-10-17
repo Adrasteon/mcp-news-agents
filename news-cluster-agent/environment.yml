@@ -1,0 +1,17 @@
+name: news-cluster-agent-env
+channels:
+  - defaults
+  - conda-forge
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - numpy
+  - scikit-learn
+  - psycopg2-binary
+  - prometheus_client
+  - uv
+  - pip
+  - pip:
+    - fastmcp==2.12.0

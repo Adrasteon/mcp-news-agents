@@ -1,0 +1,15 @@
+name: news-cleaner-agent-env
+channels:
+  - defaults
+  - conda-forge
+  - defaults
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.12
+  - numpy
+  - psycopg2-binary
+  - uv
+  - pip
+  - pip:
+    - fastmcp==2.12.0
